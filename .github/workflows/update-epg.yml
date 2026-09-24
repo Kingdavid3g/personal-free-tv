@@ -1,0 +1,32 @@
+name: Refresh TV guide
+on:
+  schedule:
+    - cron: '17 */4 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - channels.m3u
+      - scripts/update_epg.py
+      - .github/workflows/update-epg.yml
+permissions:
+  contents: write
+concurrency:
+  group: update-epg
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build fresh XMLTV guide and matching playlist
+        run: python3 scripts/update_epg.py
+      - name: Publish updated guide
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add epg.xml playlist.m3u coverage.json COVERAGE.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh guide and coverage report'
+            git push
+          fi
