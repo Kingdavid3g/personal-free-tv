@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/Kingdavid3g/personal-free-tv/main/playlist.m3u
 https://raw.githubusercontent.com/Kingdavid3g/personal-free-tv/main/epg.xml
 ```
 
-Refresh the playlist first to load the updated channel IDs, then refresh the EPG. Add the EPG URL as this playlist's XMLTV/guide source if your player does not detect the embedded URL. No account or token is required to download either file. If GitHub briefly returns the old playlist, wait a few minutes and refresh again, or use playlist.m3u?epg=1 as the playlist URL.
+Refresh the playlist first to load the updated channel IDs, then refresh the EPG. Add the EPG URL as this playlist's XMLTV/guide source if your player does not detect the embedded URL. No account or token is required to download either file. If GitHub briefly returns the old playlist, wait a few minutes and refresh again, or use https://raw.githubusercontent.com/Kingdavid3g/personal-free-tv/refs/heads/main/playlist.m3u as the playlist URL.
 
 For TiviMate: add the guide under EPG sources, assign it to this playlist, then update the guide. For UHF: use this guide URL as the playlist's EPG source and refresh the playlist and guide. Menu wording depends on the app version. No manual time offset should be needed; guide timestamps include time zones.
 
