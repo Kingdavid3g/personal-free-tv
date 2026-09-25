@@ -1,15 +1,15 @@
 # Guide coverage
 
-Generated 2026-09-24T21:00:11.090845+00:00
+Generated 2026-09-25T04:53:29.944133+00:00
 
-978 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
+979 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
 
 | Service | With schedules | Entries |
 |---|---:|---:|
 | Pluto TV | 399 | 399 |
 | Plex TV | 11 | 16 |
 | Tubi | 100 | 144 |
-| Samsung TV Plus | 364 | 391 |
+| Samsung TV Plus | 365 | 391 |
 | Roku Channel | 21 | 32 |
 | Xumo | 83 | 108 |
 | DistroTV | 0 | 10 |
@@ -86,7 +86,6 @@ Generated 2026-09-24T21:00:11.090845+00:00
 - Samsung TV Plus: Tennis Channel 2 (1080p) [Geo-blocked] — No unambiguous provider channel match
 - Samsung TV Plus: The Young Turks (TYT) (720p) — No unambiguous provider channel match
 - Samsung TV Plus: Toon Goggles Junior (720p) — No unambiguous provider channel match
-- Samsung TV Plus: USA Today (1080p) [Geo-blocked] — Matched but no unexpired programmes
 - Samsung TV Plus: Vevo Retro Rock (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: Victory+ (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: WeatherNation Charlotte (720p) — No unambiguous provider channel match
