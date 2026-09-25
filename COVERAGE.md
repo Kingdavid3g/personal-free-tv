@@ -1,15 +1,15 @@
 # Guide coverage
 
-Generated 2026-09-25T04:53:29.944133+00:00
+Generated 2026-09-25T13:43:46.677753+00:00
 
-979 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
+980 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
 
 | Service | With schedules | Entries |
 |---|---:|---:|
 | Pluto TV | 399 | 399 |
 | Plex TV | 11 | 16 |
 | Tubi | 100 | 144 |
-| Samsung TV Plus | 365 | 391 |
+| Samsung TV Plus | 366 | 391 |
 | Roku Channel | 21 | 32 |
 | Xumo | 83 | 108 |
 | DistroTV | 0 | 10 |
@@ -74,7 +74,6 @@ Generated 2026-09-25T04:53:29.944133+00:00
 - Samsung TV Plus: Dr Phil's MeritTV (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: Envoy FAST (720p) [Geo-blocked] — No unambiguous provider channel match
 - Samsung TV Plus: FilmRise Westerns (720p) — No unambiguous provider channel match
-- Samsung TV Plus: InWonder (1080p) — Matched but no unexpired programmes
 - Samsung TV Plus: K Drama by CJ ENM (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: K Food by CJ ENM (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: K POP by CJ ENM (1080p) — No unambiguous provider channel match
