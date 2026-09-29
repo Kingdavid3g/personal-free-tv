@@ -1265,7 +1265,7 @@ https://d1si3n1st4nkgb.cloudfront.net/10502/88886011/hls/master.m3u8?ads.xumo_ch
 https://circle-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800005NI_20260721T032814SQUARE.png" tvg-id="pftv.0c048d5f58ad38e4ae54" group-title="Samsung TV Plus",Clarity 4K (2160p) [Geo-blocked]
 https://pb-qyrvophnifz47.akamaized.net/Clarity_4K.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC390002256_20260907T200506SQUARE.png" tvg-id="pftv.32db5e7c4eb4c1d33287" group-title="Samsung TV Plus",Cold Case Files (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC390002256_20260929T044317SQUARE.png" tvg-id="pftv.32db5e7c4eb4c1d33287" group-title="Samsung TV Plus",Cold Case Files (1080p) [Geo-blocked]
 https://pb-ab2qxzv3xf291.akamaized.net/Cold_Case_Files.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000145C_20241210T013825SQUARE.png" tvg-id="pftv.bb64870875848bc3e59f" group-title="Samsung TV Plus",Comedy Dynamics (1080p)
 https://d3a5mry3t5fzw9.cloudfront.net/playlist.m3u8
@@ -1297,7 +1297,7 @@ https://d19h40d1rxo1la.cloudfront.net/playlist.m3u8
 https://d1sknsnbkyvie.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US25000063S_20260303T070420SQUARE.png" tvg-id="pftv.56f1b5bbecb2b42d1b8b" group-title="Samsung TV Plus",CW Gold (1080p)
 https://d1d726ny1vain2.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900021HS_20260922T055706SQUARE.png" tvg-id="pftv.061ea8a6cb3420571b7f" group-title="Samsung TV Plus",Dance Moms (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900021HS_20260929T044330SQUARE.png" tvg-id="pftv.061ea8a6cb3420571b7f" group-title="Samsung TV Plus",Dance Moms (1080p) [Geo-blocked]
 https://pb-z02izgi68rhao.akamaized.net/Dance_Moms.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504708A_20260421T133435SQUARE.png" tvg-id="pftv.d106629ad90305db1655" group-title="Samsung TV Plus",DangerTV (720p)
 https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8
@@ -1483,7 +1483,7 @@ https://d2z0ysa6dgxhlc.cloudfront.net/kchan.m3u8
 https://pb-6nrjkl2kyw4ki.akamaized.net/Kitchen_Nightmares.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US7000229B_20250826T234540SQUARE.png" tvg-id="pftv.a9d390ae0d215cbf0d94" group-title="Samsung TV Plus",Let's Make A Deal Classic (1080p)
 https://d35koolwpjpqaf.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20260420T153045SQUARE.png" tvg-id="pftv.ab1f754df1bf9a13b74a" group-title="Samsung TV Plus",Lifetime Movie Favorites (720p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20260929T044342SQUARE.png" tvg-id="pftv.ab1f754df1bf9a13b74a" group-title="Samsung TV Plus",Lifetime Movie Favorites (720p) [Geo-blocked]
 https://pb-137agpk5fqieb.akamaized.net/v1/aenetworks_holidaymoviefavorites_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1600002OK_20260727T081354SQUARE.png" tvg-id="pftv.f51b8147e966e576943f" group-title="Samsung TV Plus",Lifetime Movies Love & Drama (1080p)
 https://d1s7megtamek6r.cloudfront.net/Lifetime_Love_and_Drama.m3u8
@@ -1523,11 +1523,11 @@ https://d18l78mi5ujmqr.cloudfront.net/playlist.m3u8
 https://pb-10d2295rjh7ki.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000204J_20260528T041536SQUARE.png" tvg-id="pftv.4e1815872d6290a56d48" group-title="Samsung TV Plus",Military Heroes (1080p)
 https://d25lps4m0jar17.cloudfront.net/Military_Heroes.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300067FX_20260922T055719SQUARE.png" tvg-id="pftv.676efaaf35651ec03cbc" group-title="Samsung TV Plus",Million Dollar Dream Home (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300067FX_20260929T044359SQUARE.png" tvg-id="pftv.676efaaf35651ec03cbc" group-title="Samsung TV Plus",Million Dollar Dream Home (1080p) [Geo-blocked]
 https://pb-tc6lcocnesxgi.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="pftv.afb30779c8f8ddcfc8bd" group-title="Samsung TV Plus",Miramax Channel (1080p) [Geo-blocked]
 https://pb-w5d3w3kisxahy.akamaized.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400001WV_20260420T153049SQUARE.png" tvg-id="pftv.e4cff721257098a710a8" group-title="Samsung TV Plus",MLB Channel (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400001WV_20260929T044349SQUARE.png" tvg-id="pftv.e4cff721257098a710a8" group-title="Samsung TV Plus",MLB Channel (1080p) [Geo-blocked]
 https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200025DO_20260622T160720SQUARE.png" tvg-id="pftv.307f54a428dd651209ec" group-title="Samsung TV Plus",Modern Marvels Presented by History (720p) [Geo-blocked]
 https://pb-m89wlp8flmjzf.akamaized.net/v1/aenetworks_modernmarvels_1/samsungheadend_us/latest/main/hls/playlist.m3u8
@@ -1753,7 +1753,7 @@ https://d34e6a6i7rp7yc.cloudfront.net/SONO91_Spotify.m3u8
 https://d173iv46agmwo9.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700011JL_20260818T061352SQUARE.png" tvg-id="pftv.6f6f71b7e28562d44985" group-title="Samsung TV Plus",The UnXplained with William Shatner (1080p) [Geo-blocked]
 https://pb-ii1ggyq6hduy9.akamaized.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200004NS_20251104T004628SQUARE.png" tvg-id="pftv.85fb8549a699f0607532" group-title="Samsung TV Plus",The Walking Dead Universe (720p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200004NS_20260929T044431SQUARE.png" tvg-id="pftv.85fb8549a699f0607532" group-title="Samsung TV Plus",The Walking Dead Universe (720p) [Geo-blocked]
 https://pb-7ien6yaxy2am1.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="pftv.e33bd63e9762e9db7522" group-title="Samsung TV Plus",The Young Turks (TYT) (720p)
 https://tyt-samsungus.amagi.tv/playlist.m3u8
