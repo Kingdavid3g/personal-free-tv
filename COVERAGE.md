@@ -1,8 +1,8 @@
 # Guide coverage
 
-Generated 2026-09-29T23:41:03.437329+00:00
+Generated 2026-09-30T05:28:36.512992+00:00
 
-979 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
+980 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
 
 | Service | With schedules | Entries |
 |---|---:|---:|
@@ -10,7 +10,7 @@ Generated 2026-09-29T23:41:03.437329+00:00
 | Plex TV | 11 | 16 |
 | Tubi | 100 | 144 |
 | Samsung TV Plus | 366 | 391 |
-| Roku Channel | 20 | 32 |
+| Roku Channel | 21 | 32 |
 | Xumo | 83 | 108 |
 | DistroTV | 0 | 10 |
 | Stirr | 0 | 67 |
@@ -101,7 +101,6 @@ Generated 2026-09-29T23:41:03.437329+00:00
 - Roku Channel: Pac 12 Insider (1080p) — No unambiguous provider channel match
 - Roku Channel: RCN Mas — No unambiguous provider channel match
 - Roku Channel: Runtime Espanol (720p) — No unambiguous provider channel match
-- Roku Channel: The Price Is Right: The Barker Era (1080p) [Geo-blocked] — Matched but no unexpired programmes
 - Roku Channel: Yahoo! Finance (1080p) — No unambiguous provider channel match
 - Xumo: Alien Nation (1080p) — No unambiguous provider channel match
 - Xumo: Backstage (1080p) [Geo-blocked] — No unambiguous provider channel match
