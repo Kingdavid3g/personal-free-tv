@@ -1919,7 +1919,7 @@ https://gsn-cinevault-70s-2-us.roku.wurl.tv/playlist.m3u8
 https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f208a84047865b16820dd7110ec2e17f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1775050955880_Circle-White-260x147.png" tvg-id="pftv.21b25cfa17cfcc5b83f6" group-title="Roku Channel",Circle (1080p)
 https://circle-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="pftv.f265c3508dc99dc66d42" group-title="Roku Channel",Estrella News (1080p)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0af429c36c6b517e8df2025e809b3964/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652921499084_RoKu_260x147_Estrella_NEWS.png" tvg-id="pftv.f265c3508dc99dc66d42" group-title="Roku Channel",Estrella News (1080p)
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="pftv.332957632778ce87011b" group-title="Roku Channel",Estrella TV East (1080p)
 https://estrellatv-roku.amagi.tv/playlist.m3u8
