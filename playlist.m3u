@@ -1203,7 +1203,7 @@ https://d104o6d3ybbtr3.cloudfront.net/playlist.m3u8
 https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8
 #EXTINF:-1 tvg-id="pftv.2a6f9f4b149265733089" group-title="Samsung TV Plus",beIN Sports XTRA en Espanol (1080p)
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500009PQ_20260622T055728SQUARE.png" tvg-id="pftv.03f6f9664d77c95303be" group-title="Samsung TV Plus",BET x Tyler Perry Comedy (1080p)
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500009PQ_20261002T181943SQUARE.png" tvg-id="pftv.03f6f9664d77c95303be" group-title="Samsung TV Plus",BET x Tyler Perry Comedy (1080p)
 https://d3vmpkkd3o2grv.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500008CV_20260512T070303SQUARE.png" tvg-id="pftv.eeceaf230e5b81f040e6" group-title="Samsung TV Plus",BET x Tyler Perry Drama (1080p)
 https://doumbtmvnsp0z.cloudfront.net/playlist.m3u8
@@ -1403,13 +1403,13 @@ https://pb-rtme7tnh9wa6k.akamaized.net/playlist.m3u8
 https://d31d5kw64c7b6i.cloudfront.net/v1/gustotv_samsung/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200011W4_20240709T002126SQUARE.png" tvg-id="pftv.46491bf9dde31ce81bd2" group-title="Samsung TV Plus",Hagerty (1080p)
 https://dqw6u0upa8l21.cloudfront.net/Hagerty.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20261001T230750SQUARE.png" tvg-id="pftv.23b0002d2c9dc19d595d" group-title="Samsung TV Plus",Hallmark Movies & More (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20261002T181949SQUARE.png" tvg-id="pftv.23b0002d2c9dc19d595d" group-title="Samsung TV Plus",Hallmark Movies & More (1080p) [Geo-blocked]
 https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC44000072I_20260414T005527SQUARE.png" tvg-id="pftv.9a92d2270f5580ef1ed1" group-title="Samsung TV Plus",HappyKids (1080p)
 https://dil9xdvretp0f.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400006BR_20241014T232155SQUARE.png" tvg-id="pftv.9e265e0cd2009822a231" group-title="Samsung TV Plus",Haunt TV (1080p)
 https://d1ak5jijks54h1.cloudfront.net/Haunt_TV.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900003O3_20260818T061050SQUARE.png" tvg-id="pftv.d39bc7409490aa3ce097" group-title="Samsung TV Plus",Heartland (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900003O3_20261002T181850SQUARE.png" tvg-id="pftv.d39bc7409490aa3ce097" group-title="Samsung TV Plus",Heartland (1080p) [Geo-blocked]
 https://pb-a0c87g3b3mtrw.akamaized.net/Heartland.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900002Z7_20260421T142921SQUARE.png" tvg-id="pftv.dfbddfa9dff745124121" group-title="Samsung TV Plus",Hell's Kitchen (1080p) [Geo-blocked]
 https://pb-lf7eocnc8ua2e.akamaized.net/Hells_Kitchen_SONO10.m3u8
@@ -1569,7 +1569,7 @@ https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ30000122O&channel_id=newid_342&tp=samsung_tvplus
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20251014T230117SQUARE.png" tvg-id="pftv.e5df0ad619f5c6a43d53" group-title="Samsung TV Plus",NEW KPOP (1080p)
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ3000013FJ&channel_id=newid_338&tp=samsung_tvplus
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600007WJ_20261001T230811SQUARE.png" tvg-id="pftv.0b19e3f0f557cc6db86d" group-title="Samsung TV Plus",NFL Channel (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600007WJ_20261002T182011SQUARE.png" tvg-id="pftv.0b19e3f0f557cc6db86d" group-title="Samsung TV Plus",NFL Channel (1080p) [Geo-blocked]
 https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200019WF_20240528T020722SQUARE.png" tvg-id="pftv.443e3ecc34d3211966f7" group-title="Samsung TV Plus",NHRA TV (1080p)
 https://d265y4sk8257lt.cloudfront.net/nh.m3u8
@@ -1691,7 +1691,7 @@ https://dtwdcugadwtnw.cloudfront.net/master.m3u8
 https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504705A_20260421T142959SQUARE.png" tvg-id="pftv.37ba2bbb834569a75380" group-title="Samsung TV Plus",Stadium (720p)
 https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700006T2_20261001T230818SQUARE.png" tvg-id="pftv.124fcf8f40feb7873ac2" group-title="Samsung TV Plus",Storage Wars LA (720p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700006T2_20261002T182019SQUARE.png" tvg-id="pftv.124fcf8f40feb7873ac2" group-title="Samsung TV Plus",Storage Wars LA (720p) [Geo-blocked]
 https://pb-312sgyls2cddh.akamaized.net/v1/aenetworks_storagewarsla_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400014N9_20260421T143205SQUARE.png" tvg-id="pftv.ecdc059b9aa4339f3519" group-title="Samsung TV Plus",Storm Vibes (1080p)
 https://d23gs0zonql31y.cloudfront.net/playlist.m3u8
@@ -1731,7 +1731,7 @@ https://pb-jx22izjb024ns.akamaized.net/The_Curse_of_Oak_Island.m3u8
 https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000016Q_20240520T223423SQUARE.png" tvg-id="pftv.95c559d403251385a896" group-title="Samsung TV Plus",The First (1080p) [Geo-blocked]
 https://pb-7dne0wn288z2f.akamaized.net/The_First.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3300011V9_20260428T032020SQUARE.png" tvg-id="pftv.c1afe3bd76b14d307d04" group-title="Samsung TV Plus",The First 48 (720p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3300011V9_20261002T182026SQUARE.png" tvg-id="pftv.c1afe3bd76b14d307d04" group-title="Samsung TV Plus",The First 48 (720p) [Geo-blocked]
 https://pb-bp21lplgw5225.akamaized.net/v1/ae_networks_first48_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3300008FX_20260421T133803SQUARE.png" tvg-id="pftv.58aed5d50d66b2546ba7" group-title="Samsung TV Plus",The Hill (1080p) [Geo-blocked]
 https://pb-aq5tqlshz44jr.akamaized.net/playlist.m3u8
@@ -1929,7 +1929,7 @@ https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d1e4e369eda359c897e1fdfd8286b19b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1663971266370_MIDSOMER_MURDERS_260Wx147H_EPG_IMAGE_HUD_2.png" tvg-id="pftv.3b9156d31ade82aec710" group-title="Roku Channel",Midsomer Murders (1080p)
 https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b5cde121f98257329346020e2a60295a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1684954939211_MOONBUG_ROKU_LOGO_EPG_2023MONO.png" tvg-id="pftv.5fb8f7fb35e5b3594bdc" group-title="Roku Channel",Moonbug Kids (1080p)
+#EXTINF:-1 tvg-id="pftv.5fb8f7fb35e5b3594bdc" group-title="Roku Channel",Moonbug Kids (1080p)
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="pftv.06d1d5d38bac62d27986" group-title="Roku Channel",MST3K (1080p)
 https://mst3k-roku.amagi.tv/playlist.m3u8
