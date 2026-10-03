@@ -1929,7 +1929,7 @@ https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d1e4e369eda359c897e1fdfd8286b19b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1663971266370_MIDSOMER_MURDERS_260Wx147H_EPG_IMAGE_HUD_2.png" tvg-id="pftv.3b9156d31ade82aec710" group-title="Roku Channel",Midsomer Murders (1080p)
 https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="pftv.5fb8f7fb35e5b3594bdc" group-title="Roku Channel",Moonbug Kids (1080p)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b5cde121f98257329346020e2a60295a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1684954939211_MOONBUG_ROKU_LOGO_EPG_2023MONO.png" tvg-id="pftv.5fb8f7fb35e5b3594bdc" group-title="Roku Channel",Moonbug Kids (1080p)
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="pftv.06d1d5d38bac62d27986" group-title="Roku Channel",MST3K (1080p)
 https://mst3k-roku.amagi.tv/playlist.m3u8
