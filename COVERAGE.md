@@ -1,14 +1,14 @@
 # Guide coverage
 
-Generated 2026-10-04T14:05:19.872543+00:00
+Generated 2026-10-04T19:34:43.639488+00:00
 
-880 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
+945 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
 
 | Service | With schedules | Entries |
 |---|---:|---:|
 | Pluto TV | 399 | 399 |
 | Plex TV | 11 | 16 |
-| Tubi | 0 | 144 |
+| Tubi | 65 | 144 |
 | Samsung TV Plus | 366 | 391 |
 | Roku Channel | 21 | 32 |
 | Xumo | 83 | 108 |
@@ -33,42 +33,17 @@ Generated 2026-10-04T14:05:19.872543+00:00
 - Tubi: ABC 15 Phoenix AZ (KNXV) (720p) — No unambiguous provider channel match
 - Tubi: ABC 23 Bakersfield CA (KERO) (720p) — No unambiguous provider channel match
 - Tubi: ABC 27 Tallahassee FL (WTXL) (720p) — No unambiguous provider channel match
-- Tubi: ABC News Live (720p) — Matched but no unexpired programmes
-- Tubi: ACCDN (1080p) — Matched but no unexpired programmes
-- Tubi: Alien Nation by DUST (1080p) — Matched but no unexpired programmes
 - Tubi: Always Funny Videos (720p) — No unambiguous provider channel match
-- Tubi: Americas Test Kitchen (720p) — Matched but no unexpired programmes
 - Tubi: Anger Management Channel (720p) — No unambiguous provider channel match
-- Tubi: Antiques Road Trip (720p) — Matched but no unexpired programmes
-- Tubi: Are We There Yet? (720p) — Matched but no unexpired programmes
-- Tubi: Baywatch (720p) — Matched but no unexpired programmes
-- Tubi: BBC Earth (720p) — Matched but no unexpired programmes
-- Tubi: BeIN SPORTS XTRA (720p) — Matched but no unexpired programmes
 - Tubi: BeIN SPORTS XTRA En Espanol (720p) — No unambiguous provider channel match
-- Tubi: Bounce XL (720p) — Matched but no unexpired programmes
-- Tubi: BritBox Mysteries (1080p) — Matched but no unexpired programmes
-- Tubi: BUZZR (720p) — Matched but no unexpired programmes
 - Tubi: CBC News Network (1080p) — No unambiguous provider channel match
 - Tubi: CBS 3 Omaha NE (KMTV) (720p) — No unambiguous provider channel match
 - Tubi: CBS 6 Richmond VA (WTVR) (720p) — No unambiguous provider channel match
 - Tubi: CBS 8 Des Moines IA (KCCI) (720p) — No unambiguous provider channel match
 - Tubi: Cine Estrella (1080p) — No unambiguous provider channel match
-- Tubi: Cold Case Files (1080p) — Matched but no unexpired programmes
-- Tubi: Comedy Dynamics (720p) — Matched but no unexpired programmes
-- Tubi: Court TV (720p) — Matched but no unexpired programmes
-- Tubi: Dance Moms (1080p) — Matched but no unexpired programmes
-- Tubi: Dateline 24/7 (1080p) — Matched but no unexpired programmes
-- Tubi: Dazn Ringside (1080p) — Matched but no unexpired programmes
 - Tubi: Deal or No Deal (720p) — No unambiguous provider channel match
 - Tubi: Doctor Who Classic (1080p) — No unambiguous provider channel match
-- Tubi: Dog the Bounty Hunter (1080p) — Matched but no unexpired programmes
-- Tubi: Duck Dynasty (1080p) — Matched but no unexpired programmes
-- Tubi: Ebony TV by Lionsgate (1080p) — Matched but no unexpired programmes
-- Tubi: Estrella Games (1080p) — Matched but no unexpired programmes
-- Tubi: Estrella News (720p) — Matched but no unexpired programmes
-- Tubi: Estrella TV (720p) — Matched but no unexpired programmes
 - Tubi: Euronews English (720p) — No unambiguous provider channel match
-- Tubi: Family Feud (720p) — Matched but no unexpired programmes
 - Tubi: Fear Factor (720p) — No unambiguous provider channel match
 - Tubi: FOX 2 Detroit MI (WJBK) (720p) — No unambiguous provider channel match
 - Tubi: FOX 2 San Francisco CA (KTVU) (720p) — No unambiguous provider channel match
@@ -79,34 +54,13 @@ Generated 2026-10-04T14:05:19.872543+00:00
 - Tubi: FOX 11 Los Angeles CA (KTTV) (720p) — No unambiguous provider channel match
 - Tubi: FOX 13 Seattle WA (KCPQ) (720p) — No unambiguous provider channel match
 - Tubi: FOX 32 Chicago IL (WFLD) (720p) — No unambiguous provider channel match
-- Tubi: Fox Soul (720p) — Matched but no unexpired programmes
-- Tubi: Fox Sports (720p) — Matched but no unexpired programmes
-- Tubi: Fox Sports en Espanol (720p) — Matched but no unexpired programmes
-- Tubi: Fox Weather (720p) [Not 24/7] — Matched but no unexpired programmes
-- Tubi: Fubo Sports Network (1080p) [Geo-blocked] — Matched but no unexpired programmes
 - Tubi: Gardening With Monty Don (720p) — No unambiguous provider channel match
-- Tubi: Gordon Ramsay (720p) — Matched but no unexpired programmes
-- Tubi: Grit Xtra (1080p) — Matched but no unexpired programmes
-- Tubi: Hagerty (1080p) — Matched but no unexpired programmes
-- Tubi: Haunt TV (720p) — Matched but no unexpired programmes
-- Tubi: Her Sphere (720p) [Geo-blocked] — Matched but no unexpired programmes
-- Tubi: Homeful (1080p) — Matched but no unexpired programmes
-- Tubi: Horror by ALTER (1080p) — Matched but no unexpired programmes
-- Tubi: ION Mystery (1080p) — Matched but no unexpired programmes
-- Tubi: ION Plus (720p) — Matched but no unexpired programmes
-- Tubi: Kartoon Channel (720p) — Matched but no unexpired programmes
-- Tubi: Localish (720p) — Matched but no unexpired programmes
-- Tubi: Love Nature (1080p) — Matched but no unexpired programmes
-- Tubi: Maverick Black Cinema (720p) — Matched but no unexpired programmes
-- Tubi: Midsomer Murders (720p) — Matched but no unexpired programmes
-- Tubi: MLB (720p) [Not 24/7] — Matched but no unexpired programmes
-- Tubi: MotorTrend FAST TV (720p) — Matched but no unexpired programmes
-- Tubi: MovieSphere (720p) — Matched but no unexpired programmes
-- Tubi: Mr. Beast (1080p) — Matched but no unexpired programmes
-- Tubi: Mystery Science Theater 3000 (720p) — Matched but no unexpired programmes
-- Tubi: Nascar (1080p) [Geo-blocked] — Matched but no unexpired programmes
-- Tubi: Nash Bridges (720p) [Geo-blocked] — Matched but no unexpired programmes
-- Tubi: NBA FAST Channel (720p) — Matched but no unexpired programmes
+- Tubi: Maverick Black Cinema (720p) — No unambiguous provider channel match
+- Tubi: Midsomer Murders (720p) — No unambiguous provider channel match
+- Tubi: MLB (720p) [Not 24/7] — No unambiguous provider channel match
+- Tubi: MovieSphere (720p) — No unambiguous provider channel match
+- Tubi: Mr. Beast (1080p) — No unambiguous provider channel match
+- Tubi: NBA FAST Channel (720p) — No unambiguous provider channel match
 - Tubi: NBC 3 Sacramento CA (KCRA) (720p) — No unambiguous provider channel match
 - Tubi: NBC 4 Milwaukee WI (WTMJ) (720p) — No unambiguous provider channel match
 - Tubi: NBC 6 Santa Barbara CA (KSBY) (720p) — No unambiguous provider channel match
@@ -115,57 +69,38 @@ Generated 2026-10-04T14:05:19.872543+00:00
 - Tubi: NBC 11 Baltimore MD (WBAL) (720p) — No unambiguous provider channel match
 - Tubi: NBC 12 Winston-Salem NC (WXII) (720p) — No unambiguous provider channel match
 - Tubi: NBC 26 Green Bay WI (WGBA) (720p) — No unambiguous provider channel match
-- Tubi: NBC News Now (1080p) — Matched but no unexpired programmes
-- Tubi: News 12 New York (1080p) — Matched but no unexpired programmes
 - Tubi: NHL Network (1080p) — No unambiguous provider channel match
-- Tubi: NHRA TV (720p) — Matched but no unexpired programmes
-- Tubi: Nosey (720p) — Matched but no unexpired programmes
-- Tubi: OuterSphere (1080p) — Matched but no unexpired programmes
+- Tubi: Nosey (720p) — No unambiguous provider channel match
+- Tubi: OuterSphere (1080p) — No unambiguous provider channel match
 - Tubi: Q2 News Billings (1080p) — No unambiguous provider channel match
-- Tubi: Reelz Famous & Infamous (1080p) — Matched but no unexpired programmes
-- Tubi: Scripps News (1080p) — Matched but no unexpired programmes
-- Tubi: Silent Witness and New Tricks (720p) — Matched but no unexpired programmes
-- Tubi: Stadium (720p) — Matched but no unexpired programmes
-- Tubi: Supermarket Sweep (1080p) [Geo-blocked] — Matched but no unexpired programmes
-- Tubi: The Biggest Loser (1080p) — Matched but no unexpired programmes
-- Tubi: The Breakfast Club on iHeartRadio (1080p) — Matched but no unexpired programmes
-- Tubi: The Carol Burnett Show (720p) — Matched but no unexpired programmes
-- Tubi: The Conners (720p) [Geo-blocked] — Matched but no unexpired programmes
-- Tubi: The Jack Hanna Channel (1080p) — Matched but no unexpired programmes
-- Tubi: The Johnny Carson Show (720p) — Matched but no unexpired programmes
-- Tubi: The Masked Singer (720p) — Matched but no unexpired programmes
-- Tubi: TMZ (720p) — Matched but no unexpired programmes
-- Tubi: Today All Day (1080p) — Matched but no unexpired programmes
-- Tubi: Todo Cine (1080p) — Matched but no unexpired programmes
-- Tubi: Top Gear (720p) — Matched but no unexpired programmes
+- Tubi: Reelz Famous & Infamous (1080p) — No unambiguous provider channel match
+- Tubi: Scripps News (1080p) — No unambiguous provider channel match
+- Tubi: Silent Witness and New Tricks (720p) — No unambiguous provider channel match
+- Tubi: Stadium (720p) — No unambiguous provider channel match
+- Tubi: Supermarket Sweep (1080p) [Geo-blocked] — No unambiguous provider channel match
+- Tubi: The Biggest Loser (1080p) — No unambiguous provider channel match
+- Tubi: The Breakfast Club on iHeartRadio (1080p) — No unambiguous provider channel match
+- Tubi: The Carol Burnett Show (720p) — No unambiguous provider channel match
+- Tubi: The Conners (720p) [Geo-blocked] — No unambiguous provider channel match
+- Tubi: The Jack Hanna Channel (1080p) — No unambiguous provider channel match
+- Tubi: The Johnny Carson Show (720p) — No unambiguous provider channel match
+- Tubi: The Masked Singer (720p) — No unambiguous provider channel match
+- Tubi: TMZ (720p) — No unambiguous provider channel match
+- Tubi: Today All Day (1080p) — No unambiguous provider channel match
+- Tubi: Todo Cine (1080p) — No unambiguous provider channel match
+- Tubi: Top Gear (720p) — No unambiguous provider channel match
 - Tubi: Total Crime (1080p) — No unambiguous provider channel match
-- Tubi: TV One Crime & Justice (1080p) — Matched but no unexpired programmes
-- Tubi: Untold Stories of the E.R. (720p) — Matched but no unexpired programmes
-- Tubi: Wanted: Dead or Alive (720p) — Matched but no unexpired programmes
-- Tubi: Waypoint TV (720p) — Matched but no unexpired programmes
-- Tubi: WBTV At the Movies (720p) [Geo-blocked] — Matched but no unexpired programmes
-- Tubi: WBTV Chasing Criminals (720p) [Geo-blocked] — Matched but no unexpired programmes
-- Tubi: WBTV Classic Cinema (720p) [Geo-blocked] — Matched but no unexpired programmes
-- Tubi: WBTV Crime scenes (720p) [Geo-blocked] — Matched but no unexpired programmes
-- Tubi: WBTV Family Unscripted (720p) [Geo-blocked] — Matched but no unexpired programmes
-- Tubi: WBTV Generation Drama (720p) [Geo-blocked] — Matched but no unexpired programmes
-- Tubi: WBTV Ghosts are Real (720p) [Geo-blocked] — Matched but no unexpired programmes
-- Tubi: WBTV HBO Boxing (1080p) [Geo-blocked] — Matched but no unexpired programmes
-- Tubi: WBTV How To (720p) [Geo-blocked] — Matched but no unexpired programmes
-- Tubi: WBTV In The Garage (720p) [Geo-blocked] — Matched but no unexpired programmes
-- Tubi: WBTV Living With Evil (720p) [Geo-blocked] — Matched but no unexpired programmes
-- Tubi: WBTV Love and Marriage (720p) [Geo-blocked] — Matched but no unexpired programmes
-- Tubi: WBTV Mysterious Worlds (720p) [Geo-blocked] — Matched but no unexpired programmes
-- Tubi: WBTV Nikita (720p) [Geo-blocked] — Matched but no unexpired programmes
-- Tubi: WBTV Paws and Claws (720p) [Geo-blocked] — Matched but no unexpired programmes
-- Tubi: WBTV Sweet Escapes (720p) [Geo-blocked] — Matched but no unexpired programmes
-- Tubi: WBTV The FBI (720p) [Geo-blocked] — Matched but no unexpired programmes
-- Tubi: WBTV Travel and Adventure (720p) [Geo-blocked] — Matched but no unexpired programmes
-- Tubi: WBTV Unique Lives (720p) [Geo-blocked] — Matched but no unexpired programmes
-- Tubi: WBTV Welcome Home (720p) [Geo-blocked] — Matched but no unexpired programmes
-- Tubi: Wipeout Xtra (720p) — Matched but no unexpired programmes
-- Tubi: Women's Sports Network (720p) — Matched but no unexpired programmes
-- Tubi: Xplore (720p) — Matched but no unexpired programmes
+- Tubi: Waypoint TV (720p) — No unambiguous provider channel match
+- Tubi: WBTV Nikita (720p) [Geo-blocked] — No unambiguous provider channel match
+- Tubi: WBTV Paws and Claws (720p) [Geo-blocked] — No unambiguous provider channel match
+- Tubi: WBTV Sweet Escapes (720p) [Geo-blocked] — No unambiguous provider channel match
+- Tubi: WBTV The FBI (720p) [Geo-blocked] — No unambiguous provider channel match
+- Tubi: WBTV Travel and Adventure (720p) [Geo-blocked] — No unambiguous provider channel match
+- Tubi: WBTV Unique Lives (720p) [Geo-blocked] — No unambiguous provider channel match
+- Tubi: WBTV Welcome Home (720p) [Geo-blocked] — No unambiguous provider channel match
+- Tubi: Wipeout Xtra (720p) — No unambiguous provider channel match
+- Tubi: Women's Sports Network (720p) — No unambiguous provider channel match
+- Tubi: Xplore (720p) — No unambiguous provider channel match
 - Samsung TV Plus: Backstage (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: BBC Drama (1080p) [Geo-blocked] — No unambiguous provider channel match
 - Samsung TV Plus: beIN SPORTS XTRA (1080p) — No unambiguous provider channel match
