@@ -1,8 +1,8 @@
 # Guide coverage
 
-Generated 2026-10-07T05:54:24.995784+00:00
+Generated 2026-10-07T15:32:05.916319+00:00
 
-945 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
+944 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
 
 | Service | With schedules | Entries |
 |---|---:|---:|
@@ -10,7 +10,7 @@ Generated 2026-10-07T05:54:24.995784+00:00
 | Plex TV | 11 | 16 |
 | Tubi | 65 | 144 |
 | Samsung TV Plus | 366 | 391 |
-| Roku Channel | 21 | 32 |
+| Roku Channel | 20 | 32 |
 | Xumo | 83 | 108 |
 | DistroTV | 0 | 10 |
 | Stirr | 0 | 67 |
@@ -126,6 +126,7 @@ Generated 2026-10-07T05:54:24.995784+00:00
 - Samsung TV Plus: Winter Vibes (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: XITE Celebrates (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: Young Hollywood (720p) — No unambiguous provider channel match
+- Roku Channel: Baby Shark TV (1080p) — No unambiguous provider channel match
 - Roku Channel: BBC Doctor Who Classic (1080p) — No unambiguous provider channel match
 - Roku Channel: Cinevault 80s (540p) [Geo-blocked] — No unambiguous provider channel match
 - Roku Channel: Cinevault Murder and Mayhem (540p) — No unambiguous provider channel match
