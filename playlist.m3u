@@ -797,7 +797,7 @@ https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/696998dfa2b623e8b20125a3/colorLogoPNG_1770231337178.png" tvg-id="pftv.30ef2a188feeefea400d" group-title="Pluto TV",ZenLIFE by Stingray
 https://jmp2.uk/plu-696998dfa2b623e8b20125a3.m3u8
-#EXTINF:-1 tvg-id="pftv.eccd6f636fe387112b82" group-title="Plex TV",AccuWeather Now (1080p)
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/ff4384fb627d8efc1adbd65cf13b64da.png" tvg-id="pftv.eccd6f636fe387112b82" group-title="Plex TV",AccuWeather Now (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="pftv.78871010e5cd461db62b" group-title="Plex TV",AFV (720p)
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
@@ -805,29 +805,29 @@ https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="pftv.83cac30b96e78c28deac" group-title="Plex TV",Choppertown (720p) [Not 24/7]
 https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="pftv.acab999bb04f4892ee1d" group-title="Plex TV",Estrella News (1080p)
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/estrellanews_logo_dark.png" tvg-id="pftv.acab999bb04f4892ee1d" group-title="Plex TV",Estrella News (1080p)
 https://estrellanews-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="pftv.93bbfcbd92e40f27793c" group-title="Plex TV",Estrella TV East (1080p)
 https://estrellatv-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="pftv.8ab1495c079b53e1c345" group-title="Plex TV",Hard Knocks (1080p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png" tvg-id="pftv.8ab1495c079b53e1c345" group-title="Plex TV",Hard Knocks (1080p) [Not 24/7]
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
-#EXTINF:-1 tvg-id="pftv.bd96083a463d589adf71" group-title="Plex TV",Hi-YAH! (1080p)
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hi-yah!_logo.png" tvg-id="pftv.bd96083a463d589adf71" group-title="Plex TV",Hi-YAH! (1080p)
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="pftv.6ae0e6a02c5d1bb84fab" group-title="Plex TV",History Hit (1080p)
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/122cb7c8-2f6f-429a-8299-e89d9e632925/HistoryHit_Rectangle_colour_1500x1000_logo.png" tvg-id="pftv.6ae0e6a02c5d1bb84fab" group-title="Plex TV",History Hit (1080p)
 https://lds-timeline-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="pftv.e37764a97af60d066d18" group-title="Plex TV",Humor Mill (1080p) [Not 24/7]
 https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-PLEX/152.m3u8
-#EXTINF:-1 tvg-id="pftv.9bb495169adfd5a5d630" group-title="Plex TV",RCN Más (1080p)
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/114ff770-db66-459b-bc19-3ef4bfffe712/rcn-mas.png" tvg-id="pftv.9bb495169adfd5a5d630" group-title="Plex TV",RCN Más (1080p)
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="pftv.de584b2cc6765d0d7e8e" group-title="Plex TV",SportsGrid (1080p)
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png" tvg-id="pftv.de584b2cc6765d0d7e8e" group-title="Plex TV",SportsGrid (1080p)
 https://sportsgrid-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="pftv.1528af93ae6a30906623" group-title="Plex TV",USA Today (1080p)
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ae42c76a-809f-465b-aed8-cfdc8e33a04b/usatoday_logo_light.png" tvg-id="pftv.1528af93ae6a30906623" group-title="Plex TV",USA Today (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
-#EXTINF:-1 tvg-id="pftv.d420f6292dc2199f0c9a" group-title="Plex TV",Wonder (1080p)
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wonder-logo.png" tvg-id="pftv.d420f6292dc2199f0c9a" group-title="Plex TV",Wonder (1080p)
 https://lds-wonder-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="pftv.19d085cd84da6590d421" group-title="Plex TV",Yahoo! Finance (1080p)
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/yahoo-finance.png" tvg-id="pftv.19d085cd84da6590d421" group-title="Plex TV",Yahoo! Finance (1080p)
 https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="pftv.37a3098f59e277104192" group-title="Plex TV",Yahoo! Finance (1080p)
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/yahoo-finance.png" tvg-id="pftv.37a3098f59e277104192" group-title="Plex TV",Yahoo! Finance (1080p)
 https://yahoo-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="pftv.d5f237c5f313c10a3a76" group-title="Tubi",ABC 2 Baltimore MD (WMAR) (720p)
 https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8
