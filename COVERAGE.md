@@ -1,14 +1,14 @@
 # Guide coverage
 
-Generated 2026-10-08T21:17:20.805419+00:00
+Generated 2026-10-09T06:04:11.817689+00:00
 
-945 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
+969 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
 
 | Service | With schedules | Entries |
 |---|---:|---:|
 | Pluto TV | 399 | 399 |
-| Plex TV | 11 | 16 |
-| Tubi | 65 | 144 |
+| Plex TV | 0 | 16 |
+| Tubi | 100 | 144 |
 | Samsung TV Plus | 366 | 391 |
 | Roku Channel | 21 | 32 |
 | Xumo | 83 | 108 |
@@ -17,11 +17,22 @@ Generated 2026-10-08T21:17:20.805419+00:00
 
 ## Missing schedules
 
-- Plex TV: AFV (720p) — No unambiguous provider channel match
-- Plex TV: AMC Absolute Reality — No unambiguous provider channel match
-- Plex TV: Choppertown (720p) [Not 24/7] — No unambiguous provider channel match
-- Plex TV: Estrella TV East (1080p) — No unambiguous provider channel match
-- Plex TV: Humor Mill (1080p) [Not 24/7] — No unambiguous provider channel match
+- Plex TV: AccuWeather Now (1080p) — No provider guide source
+- Plex TV: AFV (720p) — No provider guide source
+- Plex TV: AMC Absolute Reality — No provider guide source
+- Plex TV: Choppertown (720p) [Not 24/7] — No provider guide source
+- Plex TV: Estrella News (1080p) — No provider guide source
+- Plex TV: Estrella TV East (1080p) — No provider guide source
+- Plex TV: Hard Knocks (1080p) [Not 24/7] — No provider guide source
+- Plex TV: Hi-YAH! (1080p) — No provider guide source
+- Plex TV: History Hit (1080p) — No provider guide source
+- Plex TV: Humor Mill (1080p) [Not 24/7] — No provider guide source
+- Plex TV: RCN Más (1080p) — No provider guide source
+- Plex TV: SportsGrid (1080p) — No provider guide source
+- Plex TV: USA Today (1080p) — No provider guide source
+- Plex TV: Wonder (1080p) — No provider guide source
+- Plex TV: Yahoo! Finance (1080p) — No provider guide source
+- Plex TV: Yahoo! Finance (1080p) — No provider guide source
 - Tubi: ABC 2 Baltimore MD (WMAR) (720p) — No unambiguous provider channel match
 - Tubi: ABC 5 Boston MA (WCVB) (720p) — No unambiguous provider channel match
 - Tubi: ABC 7 Albuquerque NM (KOAT) (720p) — No unambiguous provider channel match
@@ -55,12 +66,6 @@ Generated 2026-10-08T21:17:20.805419+00:00
 - Tubi: FOX 13 Seattle WA (KCPQ) (720p) — No unambiguous provider channel match
 - Tubi: FOX 32 Chicago IL (WFLD) (720p) — No unambiguous provider channel match
 - Tubi: Gardening With Monty Don (720p) — No unambiguous provider channel match
-- Tubi: Maverick Black Cinema (720p) — No unambiguous provider channel match
-- Tubi: Midsomer Murders (720p) — No unambiguous provider channel match
-- Tubi: MLB (720p) [Not 24/7] — No unambiguous provider channel match
-- Tubi: MovieSphere (720p) — No unambiguous provider channel match
-- Tubi: Mr. Beast (1080p) — No unambiguous provider channel match
-- Tubi: NBA FAST Channel (720p) — No unambiguous provider channel match
 - Tubi: NBC 3 Sacramento CA (KCRA) (720p) — No unambiguous provider channel match
 - Tubi: NBC 4 Milwaukee WI (WTMJ) (720p) — No unambiguous provider channel match
 - Tubi: NBC 6 Santa Barbara CA (KSBY) (720p) — No unambiguous provider channel match
@@ -70,37 +75,8 @@ Generated 2026-10-08T21:17:20.805419+00:00
 - Tubi: NBC 12 Winston-Salem NC (WXII) (720p) — No unambiguous provider channel match
 - Tubi: NBC 26 Green Bay WI (WGBA) (720p) — No unambiguous provider channel match
 - Tubi: NHL Network (1080p) — No unambiguous provider channel match
-- Tubi: Nosey (720p) — No unambiguous provider channel match
-- Tubi: OuterSphere (1080p) — No unambiguous provider channel match
 - Tubi: Q2 News Billings (1080p) — No unambiguous provider channel match
-- Tubi: Reelz Famous & Infamous (1080p) — No unambiguous provider channel match
-- Tubi: Scripps News (1080p) — No unambiguous provider channel match
-- Tubi: Silent Witness and New Tricks (720p) — No unambiguous provider channel match
-- Tubi: Stadium (720p) — No unambiguous provider channel match
-- Tubi: Supermarket Sweep (1080p) [Geo-blocked] — No unambiguous provider channel match
-- Tubi: The Biggest Loser (1080p) — No unambiguous provider channel match
-- Tubi: The Breakfast Club on iHeartRadio (1080p) — No unambiguous provider channel match
-- Tubi: The Carol Burnett Show (720p) — No unambiguous provider channel match
-- Tubi: The Conners (720p) [Geo-blocked] — No unambiguous provider channel match
-- Tubi: The Jack Hanna Channel (1080p) — No unambiguous provider channel match
-- Tubi: The Johnny Carson Show (720p) — No unambiguous provider channel match
-- Tubi: The Masked Singer (720p) — No unambiguous provider channel match
-- Tubi: TMZ (720p) — No unambiguous provider channel match
-- Tubi: Today All Day (1080p) — No unambiguous provider channel match
-- Tubi: Todo Cine (1080p) — No unambiguous provider channel match
-- Tubi: Top Gear (720p) — No unambiguous provider channel match
 - Tubi: Total Crime (1080p) — No unambiguous provider channel match
-- Tubi: Waypoint TV (720p) — No unambiguous provider channel match
-- Tubi: WBTV Nikita (720p) [Geo-blocked] — No unambiguous provider channel match
-- Tubi: WBTV Paws and Claws (720p) [Geo-blocked] — No unambiguous provider channel match
-- Tubi: WBTV Sweet Escapes (720p) [Geo-blocked] — No unambiguous provider channel match
-- Tubi: WBTV The FBI (720p) [Geo-blocked] — No unambiguous provider channel match
-- Tubi: WBTV Travel and Adventure (720p) [Geo-blocked] — No unambiguous provider channel match
-- Tubi: WBTV Unique Lives (720p) [Geo-blocked] — No unambiguous provider channel match
-- Tubi: WBTV Welcome Home (720p) [Geo-blocked] — No unambiguous provider channel match
-- Tubi: Wipeout Xtra (720p) — No unambiguous provider channel match
-- Tubi: Women's Sports Network (720p) — No unambiguous provider channel match
-- Tubi: Xplore (720p) — No unambiguous provider channel match
 - Samsung TV Plus: Backstage (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: BBC Drama (1080p) [Geo-blocked] — No unambiguous provider channel match
 - Samsung TV Plus: beIN SPORTS XTRA (1080p) — No unambiguous provider channel match
