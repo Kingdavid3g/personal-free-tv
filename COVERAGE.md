@@ -1,8 +1,8 @@
 # Guide coverage
 
-Generated 2026-10-10T05:47:29.083725+00:00
+Generated 2026-10-10T14:27:12.509021+00:00
 
-980 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
+959 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
 
 | Service | With schedules | Entries |
 |---|---:|---:|
@@ -10,7 +10,7 @@ Generated 2026-10-10T05:47:29.083725+00:00
 | Plex TV | 11 | 16 |
 | Tubi | 100 | 144 |
 | Samsung TV Plus | 366 | 391 |
-| Roku Channel | 21 | 32 |
+| Roku Channel | 0 | 32 |
 | Xumo | 83 | 108 |
 | DistroTV | 0 | 10 |
 | Stirr | 0 | 67 |
@@ -91,17 +91,38 @@ Generated 2026-10-10T05:47:29.083725+00:00
 - Samsung TV Plus: Winter Vibes (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: XITE Celebrates (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: Young Hollywood (720p) — No unambiguous provider channel match
-- Roku Channel: BBC Doctor Who Classic (1080p) — No unambiguous provider channel match
-- Roku Channel: Cinevault 80s (540p) [Geo-blocked] — No unambiguous provider channel match
-- Roku Channel: Cinevault Murder and Mayhem (540p) — No unambiguous provider channel match
-- Roku Channel: Estrella TV East (1080p) — No unambiguous provider channel match
-- Roku Channel: Impossible Quiz Show (1080p) — No unambiguous provider channel match
-- Roku Channel: MST3K (1080p) — No unambiguous provider channel match
-- Roku Channel: Outside TV (1080p) [Geo-blocked] — No unambiguous provider channel match
-- Roku Channel: Pac 12 Insider (1080p) — No unambiguous provider channel match
-- Roku Channel: RCN Mas — No unambiguous provider channel match
-- Roku Channel: Runtime Espanol (720p) — No unambiguous provider channel match
-- Roku Channel: Yahoo! Finance (1080p) — No unambiguous provider channel match
+- Roku Channel: AccuWeather Now (1080p) [Geo-blocked] — No provider guide source
+- Roku Channel: Antiques Roadshow UK (1080p) — No provider guide source
+- Roku Channel: Baby Shark TV (1080p) — No provider guide source
+- Roku Channel: Baywatch (1080p) [Geo-blocked] — No provider guide source
+- Roku Channel: BBC Doctor Who Classic (1080p) — No provider guide source
+- Roku Channel: Cinevault 80s (540p) [Geo-blocked] — No provider guide source
+- Roku Channel: Cinevault Classics (540p) — No provider guide source
+- Roku Channel: Cinevault Murder and Mayhem (540p) — No provider guide source
+- Roku Channel: Cinevault Westerns (540p) [Geo-blocked] — No provider guide source
+- Roku Channel: Circle (1080p) — No provider guide source
+- Roku Channel: Estrella News (1080p) — No provider guide source
+- Roku Channel: Estrella TV East (1080p) — No provider guide source
+- Roku Channel: Impossible Quiz Show (1080p) — No provider guide source
+- Roku Channel: Maverick Black Cinema (1080p) — No provider guide source
+- Roku Channel: Midsomer Murders (1080p) — No provider guide source
+- Roku Channel: Moonbug Kids (1080p) — No provider guide source
+- Roku Channel: MST3K (1080p) — No provider guide source
+- Roku Channel: Newsmax 2 (1080p) [Geo-blocked] — No provider guide source
+- Roku Channel: OAN Plus (1080p) — No provider guide source
+- Roku Channel: Outside TV (1080p) [Geo-blocked] — No provider guide source
+- Roku Channel: Pac 12 Insider (1080p) — No provider guide source
+- Roku Channel: RCN Mas — No provider guide source
+- Roku Channel: Real Crime (1080p) [Geo-blocked] — No provider guide source
+- Roku Channel: Runtime Espanol (720p) — No provider guide source
+- Roku Channel: Spark TV (1080p) — No provider guide source
+- Roku Channel: Spark TV Luz & Amor (1080p) — No provider guide source
+- Roku Channel: Super Simple Songs (1080p) — No provider guide source
+- Roku Channel: Supermarket Sweep (1080p) [Geo-blocked] — No provider guide source
+- Roku Channel: Swerve Combat (1080p) — No provider guide source
+- Roku Channel: The Price Is Right: The Barker Era (1080p) [Geo-blocked] — No provider guide source
+- Roku Channel: This Old House (1080p) — No provider guide source
+- Roku Channel: Yahoo! Finance (1080p) — No provider guide source
 - Xumo: Alien Nation (1080p) — No unambiguous provider channel match
 - Xumo: Backstage (1080p) [Geo-blocked] — No unambiguous provider channel match
 - Xumo: BBC Impossible — No unambiguous provider channel match
