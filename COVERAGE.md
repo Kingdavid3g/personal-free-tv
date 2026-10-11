@@ -1,8 +1,8 @@
 # Guide coverage
 
-Generated 2026-10-11T14:53:52.588534+00:00
+Generated 2026-10-11T20:13:49.528020+00:00
 
-978 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
+980 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
 
 | Service | With schedules | Entries |
 |---|---:|---:|
@@ -10,7 +10,7 @@ Generated 2026-10-11T14:53:52.588534+00:00
 | Plex TV | 11 | 16 |
 | Tubi | 100 | 144 |
 | Samsung TV Plus | 366 | 391 |
-| Roku Channel | 19 | 32 |
+| Roku Channel | 21 | 32 |
 | Xumo | 83 | 108 |
 | DistroTV | 0 | 10 |
 | Stirr | 0 | 67 |
@@ -91,7 +91,6 @@ Generated 2026-10-11T14:53:52.588534+00:00
 - Samsung TV Plus: Winter Vibes (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: XITE Celebrates (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: Young Hollywood (720p) — No unambiguous provider channel match
-- Roku Channel: Baby Shark TV (1080p) — No unambiguous provider channel match
 - Roku Channel: BBC Doctor Who Classic (1080p) — No unambiguous provider channel match
 - Roku Channel: Cinevault 80s (540p) [Geo-blocked] — No unambiguous provider channel match
 - Roku Channel: Cinevault Murder and Mayhem (540p) — No unambiguous provider channel match
@@ -102,7 +101,6 @@ Generated 2026-10-11T14:53:52.588534+00:00
 - Roku Channel: Pac 12 Insider (1080p) — No unambiguous provider channel match
 - Roku Channel: RCN Mas — No unambiguous provider channel match
 - Roku Channel: Runtime Espanol (720p) — No unambiguous provider channel match
-- Roku Channel: Supermarket Sweep (1080p) [Geo-blocked] — No unambiguous provider channel match
 - Roku Channel: Yahoo! Finance (1080p) — No unambiguous provider channel match
 - Xumo: Alien Nation (1080p) — No unambiguous provider channel match
 - Xumo: Backstage (1080p) [Geo-blocked] — No unambiguous provider channel match
