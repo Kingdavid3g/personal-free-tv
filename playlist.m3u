@@ -1943,7 +1943,7 @@ https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist
 https://pac12-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="pftv.d482e7f7cc99fc8df96d" group-title="Roku Channel",RCN Mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/cc72c25b76295e07862192d21bbff05b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669079132437_RealCrime_White_260x147_Horizontal.png" tvg-id="pftv.91bf6162250c01da4cb2" group-title="Roku Channel",Real Crime (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="pftv.91bf6162250c01da4cb2" group-title="Roku Channel",Real Crime (1080p) [Geo-blocked]
 https://d1qznhvm4vjve7.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="pftv.5347d3f133e114678f02" group-title="Roku Channel",Runtime Espanol (720p)
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8

@@ -1,8 +1,8 @@
 # Guide coverage
 
-Generated 2026-10-19T21:01:51.879449+00:00
+Generated 2026-10-20T04:44:29.147660+00:00
 
-979 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
+978 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
 
 | Service | With schedules | Entries |
 |---|---:|---:|
@@ -10,7 +10,7 @@ Generated 2026-10-19T21:01:51.879449+00:00
 | Plex TV | 11 | 16 |
 | Tubi | 100 | 144 |
 | Samsung TV Plus | 366 | 391 |
-| Roku Channel | 21 | 32 |
+| Roku Channel | 20 | 32 |
 | Xumo | 83 | 108 |
 | DistroTV | 0 | 10 |
 | Stirr | 0 | 67 |
@@ -101,6 +101,7 @@ Generated 2026-10-19T21:01:51.879449+00:00
 - Roku Channel: Outside TV (1080p) [Geo-blocked] — No unambiguous provider channel match
 - Roku Channel: Pac 12 Insider (1080p) — No unambiguous provider channel match
 - Roku Channel: RCN Mas — No unambiguous provider channel match
+- Roku Channel: Real Crime (1080p) [Geo-blocked] — No unambiguous provider channel match
 - Roku Channel: Runtime Espanol (720p) — No unambiguous provider channel match
 - Roku Channel: Yahoo! Finance (1080p) — No unambiguous provider channel match
 - Xumo: Alien Nation (1080p) — No unambiguous provider channel match
