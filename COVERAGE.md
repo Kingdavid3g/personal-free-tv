@@ -1,6 +1,6 @@
 # Guide coverage
 
-Generated 2026-10-20T19:59:09.445045+00:00
+Generated 2026-10-20T23:10:02.587520+00:00
 
 979 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
 
@@ -128,16 +128,16 @@ Generated 2026-10-20T19:59:09.445045+00:00
 - Xumo: Tribeca Channel (1080p) [Geo-blocked] — No unambiguous provider channel match
 - Xumo: TV One Crime & Justice (1080p) — No unambiguous provider channel match
 - Xumo: USA Today News (1080p) [Geo-blocked] — No unambiguous provider channel match
-- DistroTV: CGTN Global Biz (1080p) — No provider guide source
-- DistroTV: China Travel (1080p) — No provider guide source
-- DistroTV: Cirque du Soleil (1080p) [Geo-blocked] — No provider guide source
-- DistroTV: Discovering China (1080p) — No provider guide source
-- DistroTV: Estrella Games (1080p) — No provider guide source
-- DistroTV: Estrella News (1080p) — No provider guide source
-- DistroTV: EstrellaTV (1080p) — No provider guide source
-- DistroTV: Newsmax 2 (1080p) — No provider guide source
-- DistroTV: Nolly Africa HD (1080p) [Geo-blocked] — No provider guide source
-- DistroTV: Willow Sports (1080p) [Geo-blocked] — No provider guide source
+- DistroTV: CGTN Global Biz (1080p) — Matched but no unexpired programmes
+- DistroTV: China Travel (1080p) — Matched but no unexpired programmes
+- DistroTV: Cirque du Soleil (1080p) [Geo-blocked] — No unambiguous provider channel match
+- DistroTV: Discovering China (1080p) — Matched but no unexpired programmes
+- DistroTV: Estrella Games (1080p) — No unambiguous provider channel match
+- DistroTV: Estrella News (1080p) — No unambiguous provider channel match
+- DistroTV: EstrellaTV (1080p) — No unambiguous provider channel match
+- DistroTV: Newsmax 2 (1080p) — No unambiguous provider channel match
+- DistroTV: Nolly Africa HD (1080p) [Geo-blocked] — No unambiguous provider channel match
+- DistroTV: Willow Sports (1080p) [Geo-blocked] — No unambiguous provider channel match
 - Stirr: 24 Hour Free Movies (720p) — No provider guide source
 - Stirr: ABC 4 Charleston SC (WCIV) (1080p) — No provider guide source
 - Stirr: ABC 5 St. Paul MN (KSTP) (1080p) — No provider guide source
