@@ -1575,7 +1575,7 @@ https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
 https://d265y4sk8257lt.cloudfront.net/nh.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200007QG_20260421T141947SQUARE.png" tvg-id="pftv.ef627395ea09d64a7c6a" group-title="Samsung TV Plus",Ninja Kidz (720p)
 https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ34000022E_20260609T214522SQUARE.png" tvg-id="pftv.dcb3918483d09dc00140" group-title="Samsung TV Plus",Nosey (720p)
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ34000022E_20261021T010920SQUARE.png" tvg-id="pftv.dcb3918483d09dc00140" group-title="Samsung TV Plus",Nosey (720p)
 https://wurlnosey.global.transmit.live/hls/678a8e220d785cafbf154147/v1/nosey_2/samsung_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3000005RS_20260421T142020SQUARE.png" tvg-id="pftv.f3613e88d989bb650772" group-title="Samsung TV Plus",Noticias Telemundo Ahora (1080p) [Geo-blocked]
 https://pb-21qh1uz4mmkrs.akamaized.net/master.m3u8
@@ -1829,7 +1829,7 @@ https://d2otd2h2i5t24h.cloudfront.net/Victory_National.m3u8
 https://d15svg0m77868y.cloudfront.net/v1/hemisphere_wapaplus_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB440002055_20260421T143324SQUARE.png" tvg-id="pftv.20e9b5af2ad53f7e1bf6" group-title="Samsung TV Plus",Waypoint TV (1080p)
 https://djb4ma5fajjay.cloudfront.net/Waypoint_TV.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700004OA_20260421T143852SQUARE.png" tvg-id="pftv.eb0acadf225a410e87de" group-title="Samsung TV Plus",WBTV News (720p)
+#EXTINF:-1 tvg-id="pftv.eb0acadf225a410e87de" group-title="Samsung TV Plus",WBTV News (720p)
 https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="pftv.a7c77a104f1126d95c52" group-title="Samsung TV Plus",WeatherNation Charlotte (720p)
 https://d16xlk626t29pt.cloudfront.net/ABR.m3u8
@@ -1855,7 +1855,7 @@ https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
 https://pb-41uwb26l8gvwx.akamaized.net/World_Poker_Tour.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000002NP_20260421T133710SQUARE.png" tvg-id="pftv.77cf3336665f0dcfd6e9" group-title="Samsung TV Plus",World’s Most Evil Killers (1080p) [Geo-blocked]
 https://pb-b62f663v8jteu.akamaized.net/Worlds_Most_Evil_Killers.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000017D8_20260421T143646SQUARE.png" tvg-id="pftv.716c0bdc4717b45b6ad2" group-title="Samsung TV Plus",WSOC Charlotte (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="pftv.716c0bdc4717b45b6ad2" group-title="Samsung TV Plus",WSOC Charlotte (1080p) [Geo-blocked]
 https://d1q60ra9vxbqm1.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700005ID_20260421T142358SQUARE.png" tvg-id="pftv.79906290421e0d4a2cdf" group-title="Samsung TV Plus",WWE Superstar Central (1080p)
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
@@ -1863,7 +1863,7 @@ https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 https://d1n314cytqn9r3.cloudfront.net/XITE_80s_Flashback.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20260512T070259SQUARE.png" tvg-id="pftv.00976420178f9edb2b27" group-title="Samsung TV Plus",XITE 90s Throwback (1080p)
 https://d284aawtm5vi48.cloudfront.net/XITE_90s_Throwback.m3u8
-#EXTINF:-1 tvg-id="pftv.cda1196b51c4f6bac510" group-title="Samsung TV Plus",XITE Celebrates (1080p)
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20261020T100511SQUARE.png" tvg-id="pftv.cda1196b51c4f6bac510" group-title="Samsung TV Plus",XITE Celebrates (1080p)
 https://dt1s4l2cmiyit.cloudfront.net/XITE_Celebrates.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US46000072L_20260421T141745SQUARE.png" tvg-id="pftv.9d6e9a5e1ef04bae2668" group-title="Samsung TV Plus",XITE Christian Hits (1080p)
 https://d2tuyivcrvbj81.cloudfront.net/XITE_Christian_Hits.m3u8
