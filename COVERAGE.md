@@ -1,15 +1,15 @@
 # Guide coverage
 
-Generated 2026-10-22T04:38:32.024482+00:00
+Generated 2026-10-22T13:44:57.304128+00:00
 
-978 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
+980 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
 
 | Service | With schedules | Entries |
 |---|---:|---:|
 | Pluto TV | 398 | 399 |
 | Plex TV | 11 | 16 |
 | Tubi | 100 | 144 |
-| Samsung TV Plus | 365 | 391 |
+| Samsung TV Plus | 367 | 391 |
 | Roku Channel | 21 | 32 |
 | Xumo | 83 | 108 |
 | DistroTV | 0 | 10 |
@@ -88,10 +88,8 @@ Generated 2026-10-22T04:38:32.024482+00:00
 - Samsung TV Plus: Toon Goggles Junior (720p) — No unambiguous provider channel match
 - Samsung TV Plus: Vevo Retro Rock (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: Victory+ (1080p) — No unambiguous provider channel match
-- Samsung TV Plus: WBTV News (720p) — No unambiguous provider channel match
 - Samsung TV Plus: WeatherNation Charlotte (720p) — No unambiguous provider channel match
 - Samsung TV Plus: Winter Vibes (1080p) — No unambiguous provider channel match
-- Samsung TV Plus: WSOC Charlotte (1080p) [Geo-blocked] — No unambiguous provider channel match
 - Samsung TV Plus: Young Hollywood (720p) — No unambiguous provider channel match
 - Roku Channel: BBC Doctor Who Classic (1080p) — No unambiguous provider channel match
 - Roku Channel: Cinevault 80s (540p) [Geo-blocked] — No unambiguous provider channel match
