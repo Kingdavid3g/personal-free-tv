@@ -1,15 +1,15 @@
 # Guide coverage
 
-Generated 2026-10-23T19:56:24.728218+00:00
+Generated 2026-10-23T23:07:04.936074+00:00
 
-977 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
+979 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
 
 | Service | With schedules | Entries |
 |---|---:|---:|
-| Pluto TV | 396 | 399 |
+| Pluto TV | 397 | 399 |
 | Plex TV | 11 | 16 |
 | Tubi | 100 | 144 |
-| Samsung TV Plus | 366 | 391 |
+| Samsung TV Plus | 367 | 391 |
 | Roku Channel | 21 | 32 |
 | Xumo | 83 | 108 |
 | DistroTV | 0 | 10 |
@@ -17,7 +17,6 @@ Generated 2026-10-23T19:56:24.728218+00:00
 
 ## Missing schedules
 
-- Pluto TV: Dog the Bounty Hunter — Matched but no unexpired programmes
 - Pluto TV: Stories by AMC — No unambiguous provider channel match
 - Pluto TV: Women's Sports Network (720p) — Matched but no unexpired programmes
 - Plex TV: AFV (720p) — No unambiguous provider channel match
@@ -90,7 +89,6 @@ Generated 2026-10-23T19:56:24.728218+00:00
 - Samsung TV Plus: Toon Goggles Junior (720p) — No unambiguous provider channel match
 - Samsung TV Plus: Vevo Retro Rock (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: Victory+ (1080p) — No unambiguous provider channel match
-- Samsung TV Plus: WBTV News (720p) — No unambiguous provider channel match
 - Samsung TV Plus: WeatherNation Charlotte (720p) — No unambiguous provider channel match
 - Samsung TV Plus: Winter Vibes (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: Young Hollywood (720p) — No unambiguous provider channel match
