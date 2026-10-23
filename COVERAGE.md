@@ -1,23 +1,22 @@
 # Guide coverage
 
-Generated 2026-10-22T23:20:41.091151+00:00
+Generated 2026-10-23T04:44:14.327742+00:00
 
-979 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
+977 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
 
 | Service | With schedules | Entries |
 |---|---:|---:|
-| Pluto TV | 397 | 399 |
+| Pluto TV | 398 | 399 |
 | Plex TV | 11 | 16 |
 | Tubi | 100 | 144 |
-| Samsung TV Plus | 367 | 391 |
-| Roku Channel | 21 | 32 |
+| Samsung TV Plus | 365 | 391 |
+| Roku Channel | 20 | 32 |
 | Xumo | 83 | 108 |
 | DistroTV | 0 | 10 |
 | Stirr | 0 | 67 |
 
 ## Missing schedules
 
-- Pluto TV: Dog the Bounty Hunter — Matched but no unexpired programmes
 - Pluto TV: Stories by AMC — No unambiguous provider channel match
 - Plex TV: AFV (720p) — No unambiguous provider channel match
 - Plex TV: AMC Absolute Reality — No unambiguous provider channel match
@@ -83,12 +82,14 @@ Generated 2026-10-22T23:20:41.091151+00:00
 - Samsung TV Plus: MagellanTV TV Now (1080p) [Geo-blocked] — No unambiguous provider channel match
 - Samsung TV Plus: Miramax Channel (1080p) [Geo-blocked] — No unambiguous provider channel match
 - Samsung TV Plus: Outdoor America (1080p) — No unambiguous provider channel match
+- Samsung TV Plus: Pursuit UP (1080p) — Matched but no unexpired programmes
 - Samsung TV Plus: TED (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: Tennis Channel 2 (1080p) [Geo-blocked] — No unambiguous provider channel match
 - Samsung TV Plus: The Young Turks (TYT) (720p) — No unambiguous provider channel match
 - Samsung TV Plus: Toon Goggles Junior (720p) — No unambiguous provider channel match
 - Samsung TV Plus: Vevo Retro Rock (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: Victory+ (1080p) — No unambiguous provider channel match
+- Samsung TV Plus: WBTV News (720p) — Matched but no unexpired programmes
 - Samsung TV Plus: WeatherNation Charlotte (720p) — No unambiguous provider channel match
 - Samsung TV Plus: Winter Vibes (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: Young Hollywood (720p) — No unambiguous provider channel match
@@ -102,6 +103,7 @@ Generated 2026-10-22T23:20:41.091151+00:00
 - Roku Channel: Pac 12 Insider (1080p) — No unambiguous provider channel match
 - Roku Channel: RCN Mas — No unambiguous provider channel match
 - Roku Channel: Runtime Espanol (720p) — No unambiguous provider channel match
+- Roku Channel: This Old House (1080p) — Matched but no unexpired programmes
 - Roku Channel: Yahoo! Finance (1080p) — No unambiguous provider channel match
 - Xumo: Alien Nation (1080p) — No unambiguous provider channel match
 - Xumo: Backstage (1080p) [Geo-blocked] — No unambiguous provider channel match
