@@ -1,12 +1,12 @@
 # Guide coverage
 
-Generated 2026-10-23T13:22:16.250787+00:00
+Generated 2026-10-23T19:56:24.728218+00:00
 
-978 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
+977 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
 
 | Service | With schedules | Entries |
 |---|---:|---:|
-| Pluto TV | 397 | 399 |
+| Pluto TV | 396 | 399 |
 | Plex TV | 11 | 16 |
 | Tubi | 100 | 144 |
 | Samsung TV Plus | 366 | 391 |
@@ -17,6 +17,7 @@ Generated 2026-10-23T13:22:16.250787+00:00
 
 ## Missing schedules
 
+- Pluto TV: Dog the Bounty Hunter — Matched but no unexpired programmes
 - Pluto TV: Stories by AMC — No unambiguous provider channel match
 - Pluto TV: Women's Sports Network (720p) — Matched but no unexpired programmes
 - Plex TV: AFV (720p) — No unambiguous provider channel match
