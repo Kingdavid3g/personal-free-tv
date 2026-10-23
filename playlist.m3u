@@ -1829,7 +1829,7 @@ https://d2otd2h2i5t24h.cloudfront.net/Victory_National.m3u8
 https://d15svg0m77868y.cloudfront.net/v1/hemisphere_wapaplus_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB440002055_20260421T143324SQUARE.png" tvg-id="pftv.20e9b5af2ad53f7e1bf6" group-title="Samsung TV Plus",Waypoint TV (1080p)
 https://djb4ma5fajjay.cloudfront.net/Waypoint_TV.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700004OA_20260421T143852SQUARE.png" tvg-id="pftv.eb0acadf225a410e87de" group-title="Samsung TV Plus",WBTV News (720p)
+#EXTINF:-1 tvg-id="pftv.eb0acadf225a410e87de" group-title="Samsung TV Plus",WBTV News (720p)
 https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="pftv.a7c77a104f1126d95c52" group-title="Samsung TV Plus",WeatherNation Charlotte (720p)
 https://d16xlk626t29pt.cloudfront.net/ABR.m3u8
