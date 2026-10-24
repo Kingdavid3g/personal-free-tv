@@ -1,13 +1,13 @@
 # Guide coverage
 
-Generated 2026-10-23T23:07:04.936074+00:00
+Generated 2026-10-24T04:31:26.827344+00:00
 
-979 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
+978 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
 
 | Service | With schedules | Entries |
 |---|---:|---:|
 | Pluto TV | 397 | 399 |
-| Plex TV | 11 | 16 |
+| Plex TV | 10 | 16 |
 | Tubi | 100 | 144 |
 | Samsung TV Plus | 367 | 391 |
 | Roku Channel | 21 | 32 |
@@ -17,13 +17,14 @@ Generated 2026-10-23T23:07:04.936074+00:00
 
 ## Missing schedules
 
+- Pluto TV: Dog the Bounty Hunter — Matched but no unexpired programmes
 - Pluto TV: Stories by AMC — No unambiguous provider channel match
-- Pluto TV: Women's Sports Network (720p) — Matched but no unexpired programmes
 - Plex TV: AFV (720p) — No unambiguous provider channel match
 - Plex TV: AMC Absolute Reality — No unambiguous provider channel match
 - Plex TV: Choppertown (720p) [Not 24/7] — No unambiguous provider channel match
 - Plex TV: Estrella TV East (1080p) — No unambiguous provider channel match
 - Plex TV: Humor Mill (1080p) [Not 24/7] — No unambiguous provider channel match
+- Plex TV: Wonder (1080p) — Matched but no unexpired programmes
 - Tubi: ABC 2 Baltimore MD (WMAR) (720p) — No unambiguous provider channel match
 - Tubi: ABC 5 Boston MA (WCVB) (720p) — No unambiguous provider channel match
 - Tubi: ABC 7 Albuquerque NM (KOAT) (720p) — No unambiguous provider channel match
