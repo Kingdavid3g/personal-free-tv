@@ -1,22 +1,23 @@
 # Guide coverage
 
-Generated 2026-10-26T04:41:11.166194+00:00
+Generated 2026-10-26T15:09:25.622749+00:00
 
-981 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
+976 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
 
 | Service | With schedules | Entries |
 |---|---:|---:|
-| Pluto TV | 398 | 399 |
+| Pluto TV | 397 | 399 |
 | Plex TV | 11 | 16 |
 | Tubi | 101 | 144 |
-| Samsung TV Plus | 367 | 391 |
-| Roku Channel | 21 | 32 |
+| Samsung TV Plus | 365 | 391 |
+| Roku Channel | 19 | 32 |
 | Xumo | 83 | 108 |
 | DistroTV | 0 | 10 |
 | Stirr | 0 | 67 |
 
 ## Missing schedules
 
+- Pluto TV: Dog the Bounty Hunter — Matched but no unexpired programmes
 - Pluto TV: Stories by AMC — No unambiguous provider channel match
 - Plex TV: AFV (720p) — No unambiguous provider channel match
 - Plex TV: AMC Absolute Reality — No unambiguous provider channel match
@@ -81,6 +82,8 @@ Generated 2026-10-26T04:41:11.166194+00:00
 - Samsung TV Plus: MagellanTV TV Now (1080p) [Geo-blocked] — No unambiguous provider channel match
 - Samsung TV Plus: Miramax Channel (1080p) [Geo-blocked] — No unambiguous provider channel match
 - Samsung TV Plus: Outdoor America (1080p) — No unambiguous provider channel match
+- Samsung TV Plus: Tastemade Home (1080p) — Matched but no unexpired programmes
+- Samsung TV Plus: Team USA TV (1080p) — Matched but no unexpired programmes
 - Samsung TV Plus: TED (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: Tennis Channel 2 (1080p) [Geo-blocked] — No unambiguous provider channel match
 - Samsung TV Plus: The Young Turks (TYT) (720p) — No unambiguous provider channel match
@@ -93,6 +96,7 @@ Generated 2026-10-26T04:41:11.166194+00:00
 - Roku Channel: BBC Doctor Who Classic (1080p) — No unambiguous provider channel match
 - Roku Channel: Cinevault 80s (540p) [Geo-blocked] — No unambiguous provider channel match
 - Roku Channel: Cinevault Murder and Mayhem (540p) — No unambiguous provider channel match
+- Roku Channel: Circle (1080p) — No unambiguous provider channel match
 - Roku Channel: Estrella TV East (1080p) — No unambiguous provider channel match
 - Roku Channel: Impossible Quiz Show (1080p) — No unambiguous provider channel match
 - Roku Channel: MST3K (1080p) — No unambiguous provider channel match
@@ -100,6 +104,7 @@ Generated 2026-10-26T04:41:11.166194+00:00
 - Roku Channel: Pac 12 Insider (1080p) — No unambiguous provider channel match
 - Roku Channel: RCN Mas — No unambiguous provider channel match
 - Roku Channel: Runtime Espanol (720p) — No unambiguous provider channel match
+- Roku Channel: Spark TV Luz & Amor (1080p) — No unambiguous provider channel match
 - Roku Channel: Yahoo! Finance (1080p) — No unambiguous provider channel match
 - Xumo: Alien Nation (1080p) — No unambiguous provider channel match
 - Xumo: Backstage (1080p) [Geo-blocked] — No unambiguous provider channel match
