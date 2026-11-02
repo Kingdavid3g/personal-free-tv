@@ -1403,7 +1403,7 @@ https://pb-rtme7tnh9wa6k.akamaized.net/playlist.m3u8
 https://d31d5kw64c7b6i.cloudfront.net/v1/gustotv_samsung/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200011W4_20240709T002126SQUARE.png" tvg-id="pftv.46491bf9dde31ce81bd2" group-title="Samsung TV Plus",Hagerty (1080p)
 https://dqw6u0upa8l21.cloudfront.net/Hagerty.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20261023T223552SQUARE.png" tvg-id="pftv.23b0002d2c9dc19d595d" group-title="Samsung TV Plus",Hallmark Movies & More (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20261102T091123SQUARE.png" tvg-id="pftv.23b0002d2c9dc19d595d" group-title="Samsung TV Plus",Hallmark Movies & More (1080p) [Geo-blocked]
 https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC44000072I_20260414T005527SQUARE.png" tvg-id="pftv.9a92d2270f5580ef1ed1" group-title="Samsung TV Plus",HappyKids (1080p)
 https://dil9xdvretp0f.cloudfront.net/index.m3u8
@@ -1469,7 +1469,7 @@ https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8
 https://dzmydakq7xf9n.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="pftv.d05124b58c287c6c3087" group-title="Samsung TV Plus",K Drama by CJ ENM (1080p)
 https://d2fdocl6hmu0hh.cloudfront.net/dfa54c7d_1154_425d_a2b8_6ea994157976/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1700017NM_20261006T051017SQUARE.png" tvg-id="pftv.0323cacc3f56eb2045cf" group-title="Samsung TV Plus",K Drama+ (1080p)
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1700017NM_20261102T091139SQUARE.png" tvg-id="pftv.0323cacc3f56eb2045cf" group-title="Samsung TV Plus",K Drama+ (1080p)
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US1700017NM&channel_id=newid_271&tp=samsung_tvplus
 #EXTINF:-1 tvg-id="pftv.1dad8e6a2a54804e0fa0" group-title="Samsung TV Plus",K Food by CJ ENM (1080p)
 https://dmxcualdgbo80.cloudfront.net/b2c874a8_68b3_49cb_9435_0264a4d32e4a/hls/playlist.m3u8
@@ -1483,7 +1483,7 @@ https://d2z0ysa6dgxhlc.cloudfront.net/kchan.m3u8
 https://pb-6nrjkl2kyw4ki.akamaized.net/Kitchen_Nightmares.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US7000229B_20250826T234540SQUARE.png" tvg-id="pftv.a9d390ae0d215cbf0d94" group-title="Samsung TV Plus",Let's Make A Deal Classic (1080p)
 https://d35koolwpjpqaf.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20261001T230758SQUARE.png" tvg-id="pftv.ab1f754df1bf9a13b74a" group-title="Samsung TV Plus",Lifetime Movie Favorites (720p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20261102T091147SQUARE.png" tvg-id="pftv.ab1f754df1bf9a13b74a" group-title="Samsung TV Plus",Lifetime Movie Favorites (720p) [Geo-blocked]
 https://pb-137agpk5fqieb.akamaized.net/v1/aenetworks_holidaymoviefavorites_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1600002OK_20260727T081354SQUARE.png" tvg-id="pftv.f51b8147e966e576943f" group-title="Samsung TV Plus",Lifetime Movies Love & Drama (1080p)
 https://d1s7megtamek6r.cloudfront.net/Lifetime_Love_and_Drama.m3u8
@@ -1593,7 +1593,7 @@ https://dg37ei3o66x3s.cloudfront.net/OutTV_US.m3u8
 https://desdobebr2wri.cloudfront.net/Outside.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US33000154M_20260421T143300SQUARE.png" tvg-id="pftv.3111f03d85cae8246a5e" group-title="Samsung TV Plus",Overtime (1080p)
 https://d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest/main/hls/playlist_hd.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300034DB_20250415T005925SQUARE.png" tvg-id="pftv.d38400593a9775f465f5" group-title="Samsung TV Plus",Pac 12 Insider (1080p)
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300034DB_20261102T091119SQUARE.png" tvg-id="pftv.d38400593a9775f465f5" group-title="Samsung TV Plus",Pac 12 Insider (1080p)
 https://pac12-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300003S3_20261023T182425SQUARE.png" tvg-id="pftv.f7e8a1774393c9dc2051" group-title="Samsung TV Plus",Pawn Stars (720p) [Geo-blocked]
 https://pb-jo4rx96uyjcxx.akamaized.net/v1/aenetworks_pawnstars_1/samsungheadend_us/latest/main/hls/playlist.m3u8
