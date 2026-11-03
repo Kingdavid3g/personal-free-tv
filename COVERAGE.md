@@ -1,6 +1,6 @@
 # Guide coverage
 
-Generated 2026-11-03T11:53:14.020032+00:00
+Generated 2026-11-03T19:28:12.915930+00:00
 
 978 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
 
@@ -94,13 +94,13 @@ Generated 2026-11-03T11:53:14.020032+00:00
 - Roku Channel: BBC Doctor Who Classic (1080p) — No unambiguous provider channel match
 - Roku Channel: Cinevault 80s (540p) [Geo-blocked] — No unambiguous provider channel match
 - Roku Channel: Cinevault Murder and Mayhem (540p) — No unambiguous provider channel match
-- Roku Channel: Estrella News (1080p) — Matched but no unexpired programmes
 - Roku Channel: Estrella TV East (1080p) — No unambiguous provider channel match
 - Roku Channel: Impossible Quiz Show (1080p) — No unambiguous provider channel match
 - Roku Channel: MST3K (1080p) — No unambiguous provider channel match
 - Roku Channel: Outside TV (1080p) [Geo-blocked] — No unambiguous provider channel match
 - Roku Channel: Pac 12 Insider (1080p) — No unambiguous provider channel match
 - Roku Channel: RCN Mas — No unambiguous provider channel match
+- Roku Channel: Real Crime (1080p) [Geo-blocked] — No unambiguous provider channel match
 - Roku Channel: Runtime Espanol (720p) — No unambiguous provider channel match
 - Roku Channel: Spark TV Luz & Amor (1080p) — No unambiguous provider channel match
 - Roku Channel: Yahoo! Finance (1080p) — No unambiguous provider channel match
