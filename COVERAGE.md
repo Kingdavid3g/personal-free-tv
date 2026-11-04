@@ -1,15 +1,15 @@
 # Guide coverage
 
-Generated 2026-11-04T00:35:33.729957+00:00
+Generated 2026-11-04T12:04:16.209784+00:00
 
-979 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
+976 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
 
 | Service | With schedules | Entries |
 |---|---:|---:|
 | Pluto TV | 398 | 399 |
 | Plex TV | 11 | 16 |
 | Tubi | 100 | 144 |
-| Samsung TV Plus | 367 | 391 |
+| Samsung TV Plus | 364 | 391 |
 | Roku Channel | 20 | 32 |
 | Xumo | 83 | 108 |
 | DistroTV | 0 | 10 |
@@ -75,13 +75,16 @@ Generated 2026-11-04T00:35:33.729957+00:00
 - Samsung TV Plus: Dr Phil's MeritTV (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: Envoy FAST (720p) [Geo-blocked] — No unambiguous provider channel match
 - Samsung TV Plus: FilmRise Westerns (720p) — No unambiguous provider channel match
+- Samsung TV Plus: Hallmark Movies & More (1080p) [Geo-blocked] — No unambiguous provider channel match
 - Samsung TV Plus: K Drama by CJ ENM (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: K Food by CJ ENM (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: K POP by CJ ENM (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: K Stories by CJ ENM (1080p) — No unambiguous provider channel match
+- Samsung TV Plus: Lifetime Movie Favorites (720p) [Geo-blocked] — No unambiguous provider channel match
 - Samsung TV Plus: MagellanTV TV Now (1080p) [Geo-blocked] — No unambiguous provider channel match
 - Samsung TV Plus: Miramax Channel (1080p) [Geo-blocked] — No unambiguous provider channel match
 - Samsung TV Plus: Outdoor America (1080p) — No unambiguous provider channel match
+- Samsung TV Plus: Pac 12 Insider (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: TED (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: Tennis Channel 2 (1080p) [Geo-blocked] — No unambiguous provider channel match
 - Samsung TV Plus: The Young Turks (TYT) (720p) — No unambiguous provider channel match
