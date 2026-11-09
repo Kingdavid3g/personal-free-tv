@@ -1,16 +1,16 @@
 # Guide coverage
 
-Generated 2026-11-08T20:27:00.239711+00:00
+Generated 2026-11-09T06:18:21.750576+00:00
 
-976 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
+945 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
 
 | Service | With schedules | Entries |
 |---|---:|---:|
 | Pluto TV | 398 | 399 |
-| Plex TV | 11 | 16 |
+| Plex TV | 0 | 16 |
 | Tubi | 100 | 144 |
 | Samsung TV Plus | 364 | 391 |
-| Roku Channel | 20 | 32 |
+| Roku Channel | 0 | 32 |
 | Xumo | 83 | 108 |
 | DistroTV | 0 | 10 |
 | Stirr | 0 | 67 |
@@ -18,11 +18,22 @@ Generated 2026-11-08T20:27:00.239711+00:00
 ## Missing schedules
 
 - Pluto TV: Stories by AMC — No unambiguous provider channel match
-- Plex TV: AFV (720p) — No unambiguous provider channel match
-- Plex TV: AMC Absolute Reality — No unambiguous provider channel match
-- Plex TV: Choppertown (720p) [Not 24/7] — No unambiguous provider channel match
-- Plex TV: Estrella TV East (1080p) — No unambiguous provider channel match
-- Plex TV: Humor Mill (1080p) [Not 24/7] — No unambiguous provider channel match
+- Plex TV: AccuWeather Now (1080p) — No provider guide source
+- Plex TV: AFV (720p) — No provider guide source
+- Plex TV: AMC Absolute Reality — No provider guide source
+- Plex TV: Choppertown (720p) [Not 24/7] — No provider guide source
+- Plex TV: Estrella News (1080p) — No provider guide source
+- Plex TV: Estrella TV East (1080p) — No provider guide source
+- Plex TV: Hard Knocks (1080p) [Not 24/7] — No provider guide source
+- Plex TV: Hi-YAH! (1080p) — No provider guide source
+- Plex TV: History Hit (1080p) — No provider guide source
+- Plex TV: Humor Mill (1080p) [Not 24/7] — No provider guide source
+- Plex TV: RCN Más (1080p) — No provider guide source
+- Plex TV: SportsGrid (1080p) — No provider guide source
+- Plex TV: USA Today (1080p) — No provider guide source
+- Plex TV: Wonder (1080p) — No provider guide source
+- Plex TV: Yahoo! Finance (1080p) — No provider guide source
+- Plex TV: Yahoo! Finance (1080p) — No provider guide source
 - Tubi: ABC 2 Baltimore MD (WMAR) (720p) — No unambiguous provider channel match
 - Tubi: ABC 5 Boston MA (WCVB) (720p) — No unambiguous provider channel match
 - Tubi: ABC 7 Albuquerque NM (KOAT) (720p) — No unambiguous provider channel match
@@ -94,18 +105,38 @@ Generated 2026-11-08T20:27:00.239711+00:00
 - Samsung TV Plus: WeatherNation Charlotte (720p) — No unambiguous provider channel match
 - Samsung TV Plus: Winter Vibes (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: Young Hollywood (720p) — No unambiguous provider channel match
-- Roku Channel: BBC Doctor Who Classic (1080p) — No unambiguous provider channel match
-- Roku Channel: Cinevault 80s (540p) [Geo-blocked] — No unambiguous provider channel match
-- Roku Channel: Cinevault Murder and Mayhem (540p) — No unambiguous provider channel match
-- Roku Channel: Estrella TV East (1080p) — No unambiguous provider channel match
-- Roku Channel: Impossible Quiz Show (1080p) — No unambiguous provider channel match
-- Roku Channel: MST3K (1080p) — No unambiguous provider channel match
-- Roku Channel: Outside TV (1080p) [Geo-blocked] — No unambiguous provider channel match
-- Roku Channel: Pac 12 Insider (1080p) — No unambiguous provider channel match
-- Roku Channel: RCN Mas — No unambiguous provider channel match
-- Roku Channel: Runtime Espanol (720p) — No unambiguous provider channel match
-- Roku Channel: Spark TV Luz & Amor (1080p) — No unambiguous provider channel match
-- Roku Channel: Yahoo! Finance (1080p) — No unambiguous provider channel match
+- Roku Channel: AccuWeather Now (1080p) [Geo-blocked] — No provider guide source
+- Roku Channel: Antiques Roadshow UK (1080p) — No provider guide source
+- Roku Channel: Baby Shark TV (1080p) — No provider guide source
+- Roku Channel: Baywatch (1080p) [Geo-blocked] — No provider guide source
+- Roku Channel: BBC Doctor Who Classic (1080p) — No provider guide source
+- Roku Channel: Cinevault 80s (540p) [Geo-blocked] — No provider guide source
+- Roku Channel: Cinevault Classics (540p) — No provider guide source
+- Roku Channel: Cinevault Murder and Mayhem (540p) — No provider guide source
+- Roku Channel: Cinevault Westerns (540p) [Geo-blocked] — No provider guide source
+- Roku Channel: Circle (1080p) — No provider guide source
+- Roku Channel: Estrella News (1080p) — No provider guide source
+- Roku Channel: Estrella TV East (1080p) — No provider guide source
+- Roku Channel: Impossible Quiz Show (1080p) — No provider guide source
+- Roku Channel: Maverick Black Cinema (1080p) — No provider guide source
+- Roku Channel: Midsomer Murders (1080p) — No provider guide source
+- Roku Channel: Moonbug Kids (1080p) — No provider guide source
+- Roku Channel: MST3K (1080p) — No provider guide source
+- Roku Channel: Newsmax 2 (1080p) [Geo-blocked] — No provider guide source
+- Roku Channel: OAN Plus (1080p) — No provider guide source
+- Roku Channel: Outside TV (1080p) [Geo-blocked] — No provider guide source
+- Roku Channel: Pac 12 Insider (1080p) — No provider guide source
+- Roku Channel: RCN Mas — No provider guide source
+- Roku Channel: Real Crime (1080p) [Geo-blocked] — No provider guide source
+- Roku Channel: Runtime Espanol (720p) — No provider guide source
+- Roku Channel: Spark TV (1080p) — No provider guide source
+- Roku Channel: Spark TV Luz & Amor (1080p) — No provider guide source
+- Roku Channel: Super Simple Songs (1080p) — No provider guide source
+- Roku Channel: Supermarket Sweep (1080p) [Geo-blocked] — No provider guide source
+- Roku Channel: Swerve Combat (1080p) — No provider guide source
+- Roku Channel: The Price Is Right: The Barker Era (1080p) [Geo-blocked] — No provider guide source
+- Roku Channel: This Old House (1080p) — No provider guide source
+- Roku Channel: Yahoo! Finance (1080p) — No provider guide source
 - Xumo: Alien Nation (1080p) — No unambiguous provider channel match
 - Xumo: Backstage (1080p) [Geo-blocked] — No unambiguous provider channel match
 - Xumo: BBC Impossible — No unambiguous provider channel match
