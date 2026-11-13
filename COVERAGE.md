@@ -1,8 +1,8 @@
 # Guide coverage
 
-Generated 2026-11-12T16:46:15.323214+00:00
+Generated 2026-11-13T01:03:15.461471+00:00
 
-977 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
+976 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
 
 | Service | With schedules | Entries |
 |---|---:|---:|
@@ -11,7 +11,7 @@ Generated 2026-11-12T16:46:15.323214+00:00
 | Tubi | 101 | 144 |
 | Samsung TV Plus | 364 | 391 |
 | Roku Channel | 20 | 32 |
-| Xumo | 83 | 108 |
+| Xumo | 82 | 108 |
 | DistroTV | 0 | 10 |
 | Stirr | 0 | 67 |
 
@@ -113,6 +113,7 @@ Generated 2026-11-12T16:46:15.323214+00:00
 - Xumo: Black News Channel (1080p) — No unambiguous provider channel match
 - Xumo: Celebrity Name Game (1080p) [Geo-blocked] — No unambiguous provider channel match
 - Xumo: Circle (1080p) — No unambiguous provider channel match
+- Xumo: Designated Survivor (1080p) [Geo-blocked] — Matched but no unexpired programmes
 - Xumo: Doctor Who Classic — No unambiguous provider channel match
 - Xumo: Dog Whisperer with Cesar Millan (1080p) [Geo-blocked] — No unambiguous provider channel match
 - Xumo: Jewish Life Television (1080p) — No unambiguous provider channel match
