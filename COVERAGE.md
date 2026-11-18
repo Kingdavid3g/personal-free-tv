@@ -1,6 +1,6 @@
 # Guide coverage
 
-Generated 2026-11-18T07:21:04.888235+00:00
+Generated 2026-11-18T17:12:55.946113+00:00
 
 974 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
 
