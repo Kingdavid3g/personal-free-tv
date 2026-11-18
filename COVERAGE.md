@@ -1,6 +1,6 @@
 # Guide coverage
 
-Generated 2026-11-17T23:29:36.835072+00:00
+Generated 2026-11-18T07:21:04.888235+00:00
 
 974 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
 
@@ -88,8 +88,8 @@ Generated 2026-11-17T23:29:36.835072+00:00
 - Samsung TV Plus: TED (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: Tennis Channel 2 (1080p) [Geo-blocked] — No unambiguous provider channel match
 - Samsung TV Plus: The Young Turks (TYT) (720p) — No unambiguous provider channel match
+- Samsung TV Plus: Toon Goggles (720p) — Matched but no unexpired programmes
 - Samsung TV Plus: Toon Goggles Junior (720p) — No unambiguous provider channel match
-- Samsung TV Plus: Unbeaten Sports Channel (1080p) — Matched but no unexpired programmes
 - Samsung TV Plus: Vevo Retro Rock (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: Victory+ (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: WeatherNation Charlotte (720p) — No unambiguous provider channel match
