@@ -1,14 +1,14 @@
 # Guide coverage
 
-Generated 2026-11-19T01:51:18.375629+00:00
+Generated 2026-11-19T12:58:00.344855+00:00
 
-880 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
+875 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
 
 | Service | With schedules | Entries |
 |---|---:|---:|
 | Pluto TV | 398 | 399 |
 | Plex TV | 11 | 16 |
-| Tubi | 5 | 144 |
+| Tubi | 0 | 144 |
 | Samsung TV Plus | 364 | 391 |
 | Roku Channel | 20 | 32 |
 | Xumo | 82 | 108 |
@@ -81,6 +81,7 @@ Generated 2026-11-19T01:51:18.375629+00:00
 - Tubi: FOX 13 Seattle WA (KCPQ) (720p) — No unambiguous provider channel match
 - Tubi: FOX 32 Chicago IL (WFLD) (720p) — No unambiguous provider channel match
 - Tubi: Fox Soul (720p) — Matched but no unexpired programmes
+- Tubi: Fox Sports (720p) — Matched but no unexpired programmes
 - Tubi: Fox Sports en Espanol (720p) — Matched but no unexpired programmes
 - Tubi: Fox Weather (720p) [Not 24/7] — Matched but no unexpired programmes
 - Tubi: Fubo Sports Network (1080p) [Geo-blocked] — Matched but no unexpired programmes
@@ -104,6 +105,7 @@ Generated 2026-11-19T01:51:18.375629+00:00
 - Tubi: MovieSphere (720p) — Matched but no unexpired programmes
 - Tubi: Mr. Beast (1080p) — Matched but no unexpired programmes
 - Tubi: Mystery Science Theater 3000 (720p) — Matched but no unexpired programmes
+- Tubi: Nascar (1080p) [Geo-blocked] — Matched but no unexpired programmes
 - Tubi: Nash Bridges (720p) [Geo-blocked] — Matched but no unexpired programmes
 - Tubi: NBA FAST Channel (720p) — Matched but no unexpired programmes
 - Tubi: NBC 3 Sacramento CA (KCRA) (720p) — No unambiguous provider channel match
@@ -119,10 +121,12 @@ Generated 2026-11-19T01:51:18.375629+00:00
 - Tubi: NHL Network (1080p) — No unambiguous provider channel match
 - Tubi: NHRA TV (720p) — Matched but no unexpired programmes
 - Tubi: Nosey (720p) — Matched but no unexpired programmes
+- Tubi: OuterSphere (1080p) — Matched but no unexpired programmes
 - Tubi: Q2 News Billings (1080p) — No unambiguous provider channel match
 - Tubi: Reelz Famous & Infamous (1080p) — Matched but no unexpired programmes
 - Tubi: Scripps News (1080p) — Matched but no unexpired programmes
 - Tubi: Silent Witness and New Tricks (720p) — Matched but no unexpired programmes
+- Tubi: Stadium (720p) — Matched but no unexpired programmes
 - Tubi: Supermarket Sweep (1080p) [Geo-blocked] — Matched but no unexpired programmes
 - Tubi: The Biggest Loser (1080p) — Matched but no unexpired programmes
 - Tubi: The Breakfast Club on iHeartRadio (1080p) — Matched but no unexpired programmes
@@ -142,6 +146,7 @@ Generated 2026-11-19T01:51:18.375629+00:00
 - Tubi: Waypoint TV (720p) — Matched but no unexpired programmes
 - Tubi: WBTV At the Movies (720p) [Geo-blocked] — Matched but no unexpired programmes
 - Tubi: WBTV Chasing Criminals (720p) [Geo-blocked] — Matched but no unexpired programmes
+- Tubi: WBTV Classic Cinema (720p) [Geo-blocked] — Matched but no unexpired programmes
 - Tubi: WBTV Crime scenes (720p) [Geo-blocked] — Matched but no unexpired programmes
 - Tubi: WBTV Family Unscripted (720p) [Geo-blocked] — Matched but no unexpired programmes
 - Tubi: WBTV Generation Drama (720p) [Geo-blocked] — Matched but no unexpired programmes
