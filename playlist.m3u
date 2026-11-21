@@ -1205,7 +1205,7 @@ https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500009PQ_20261008T213604SQUARE.png" tvg-id="pftv.03f6f9664d77c95303be" group-title="Samsung TV Plus",BET x Tyler Perry Comedy (1080p)
 https://d3vmpkkd3o2grv.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500008CV_20261116T193828SQUARE.png" tvg-id="pftv.eeceaf230e5b81f040e6" group-title="Samsung TV Plus",BET x Tyler Perry Drama (1080p)
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500008CV_20261120T223724SQUARE.png" tvg-id="pftv.eeceaf230e5b81f040e6" group-title="Samsung TV Plus",BET x Tyler Perry Drama (1080p)
 https://doumbtmvnsp0z.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US37000017A_20260421T143312SQUARE.png" tvg-id="pftv.1ad0905280a19d0c5577" group-title="Samsung TV Plus",Big 12 Studios (1080p)
 https://d18pj8s9gbivdq.cloudfront.net/The_Big_12.m3u8
@@ -1513,7 +1513,7 @@ https://pb-zrn69przatyzi.akamaized.net/Matched_Married_Meet.m3u8
 https://dc6v647pwrp79.cloudfront.net/matjr.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000007MT_20260609T214517SQUARE.png" tvg-id="pftv.305cd59390ee77169788" group-title="Samsung TV Plus",Maverick Black Cinema (720p)
 https://maverick-maverick-black-cinema-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US21000043S_20250909T002823SQUARE.png" tvg-id="pftv.2118bd57ddf210395022" group-title="Samsung TV Plus",MeatEater (1080p)
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US21000043S_20261120T235940SQUARE.png" tvg-id="pftv.2118bd57ddf210395022" group-title="Samsung TV Plus",MeatEater (1080p)
 https://d7hbn1ntae5ib.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ22000130U_20261117T052540SQUARE.png" tvg-id="pftv.f30afbfbe95001e162d2" group-title="Samsung TV Plus",MHz Mysteries (720p)
 https://mhz-samsung-linear-us.samsung.wurl.tv/playlist.m3u8
@@ -1569,7 +1569,7 @@ https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ30000122O&channel_id=newid_342&tp=samsung_tvplus
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20251014T230117SQUARE.png" tvg-id="pftv.e5df0ad619f5c6a43d53" group-title="Samsung TV Plus",NEW KPOP (1080p)
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ3000013FJ&channel_id=newid_338&tp=samsung_tvplus
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600007WJ_20261002T182011SQUARE.png" tvg-id="pftv.0b19e3f0f557cc6db86d" group-title="Samsung TV Plus",NFL Channel (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600007WJ_20261120T235948SQUARE.png" tvg-id="pftv.0b19e3f0f557cc6db86d" group-title="Samsung TV Plus",NFL Channel (1080p) [Geo-blocked]
 https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200019WF_20240528T020722SQUARE.png" tvg-id="pftv.443e3ecc34d3211966f7" group-title="Samsung TV Plus",NHRA TV (1080p)
 https://d265y4sk8257lt.cloudfront.net/nh.m3u8
@@ -1595,7 +1595,7 @@ https://desdobebr2wri.cloudfront.net/Outside.m3u8
 https://d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest/main/hls/playlist_hd.m3u8
 #EXTINF:-1 tvg-id="pftv.d38400593a9775f465f5" group-title="Samsung TV Plus",Pac 12 Insider (1080p)
 https://pac12-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300003S3_20261023T182425SQUARE.png" tvg-id="pftv.f7e8a1774393c9dc2051" group-title="Samsung TV Plus",Pawn Stars (720p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300003S3_20261120T235955SQUARE.png" tvg-id="pftv.f7e8a1774393c9dc2051" group-title="Samsung TV Plus",Pawn Stars (720p) [Geo-blocked]
 https://pb-jo4rx96uyjcxx.akamaized.net/v1/aenetworks_pawnstars_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200017GS_20240520T221538SQUARE.png" tvg-id="pftv.8a2a7c4efc7801b61266" group-title="Samsung TV Plus",PBS Antiques Roadshow (1080p) [Geo-blocked]
 https://pb-ft51qiiwihqtb.akamaized.net/PBS_Antiques_Roadshow.m3u8
