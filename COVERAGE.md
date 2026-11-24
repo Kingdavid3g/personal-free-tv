@@ -1,8 +1,8 @@
 # Guide coverage
 
-Generated 2026-11-24T04:45:03.484304+00:00
+Generated 2026-11-24T19:28:56.983478+00:00
 
-975 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
+974 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
 
 | Service | With schedules | Entries |
 |---|---:|---:|
@@ -10,7 +10,7 @@ Generated 2026-11-24T04:45:03.484304+00:00
 | Plex TV | 11 | 16 |
 | Tubi | 100 | 144 |
 | Samsung TV Plus | 364 | 391 |
-| Roku Channel | 20 | 32 |
+| Roku Channel | 19 | 32 |
 | Xumo | 82 | 108 |
 | DistroTV | 0 | 10 |
 | Stirr | 0 | 67 |
@@ -96,6 +96,7 @@ Generated 2026-11-24T04:45:03.484304+00:00
 - Samsung TV Plus: Young Hollywood (720p) — No unambiguous provider channel match
 - Roku Channel: BBC Doctor Who Classic (1080p) — No unambiguous provider channel match
 - Roku Channel: Cinevault 80s (540p) [Geo-blocked] — No unambiguous provider channel match
+- Roku Channel: Cinevault Classics (540p) — No unambiguous provider channel match
 - Roku Channel: Cinevault Murder and Mayhem (540p) — No unambiguous provider channel match
 - Roku Channel: Estrella TV East (1080p) — No unambiguous provider channel match
 - Roku Channel: Impossible Quiz Show (1080p) — No unambiguous provider channel match
