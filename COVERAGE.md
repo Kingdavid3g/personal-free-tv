@@ -1,14 +1,14 @@
 # Guide coverage
 
-Generated 2026-11-27T21:11:18.885650+00:00
+Generated 2026-11-28T07:41:15.942805+00:00
 
-964 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
+965 of 1167 playlist entries have upcoming programmes. Coverage is not a guarantee of gap-free schedules or playback. Matching is provider-specific; no cross-service schedule substitutions or fabricated programmes.
 
 | Service | With schedules | Entries |
 |---|---:|---:|
 | Pluto TV | 398 | 399 |
 | Plex TV | 0 | 16 |
-| Tubi | 100 | 144 |
+| Tubi | 101 | 144 |
 | Samsung TV Plus | 364 | 391 |
 | Roku Channel | 20 | 32 |
 | Xumo | 82 | 108 |
@@ -76,7 +76,6 @@ Generated 2026-11-27T21:11:18.885650+00:00
 - Tubi: NBC 12 Winston-Salem NC (WXII) (720p) — No unambiguous provider channel match
 - Tubi: NBC 26 Green Bay WI (WGBA) (720p) — No unambiguous provider channel match
 - Tubi: NHL Network (1080p) — No unambiguous provider channel match
-- Tubi: Q2 News Billings (1080p) — No unambiguous provider channel match
 - Tubi: Total Crime (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: Backstage (1080p) — No unambiguous provider channel match
 - Samsung TV Plus: BBC Drama (1080p) [Geo-blocked] — No unambiguous provider channel match
